@@ -1,0 +1,450 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaDescarga o recibe tu Estado de CuentaDesde donde estésConocer másServicios Digitales: BancaNet Audiomático Notificaciones Estado de Cuenta CajerosESTADO DE CUENTA ELECTRÓNICOConsulta tu información estés donde estésSeguridadEstablece tu contraseña.Identifica cargos no reconocidos.ControlConoce tus saldos, movimientos y fecha de pago.Recíbelo entre 5 a 10 días después de tu fecha de corte.PrácticoConsúltalo en cualquier dispositivo.Estado de Cuenta Citibanamex¿Qué quieres hacer?Obtener mi estado de cuentaRecuperar la contraseña de mi estado de cuentaVer mis movimientos y saldo en línea¿Quieres dejar de recibir tu estado de cuenta impreso?1Ingresa a BancaNet.2En el menú principal selecciona la opción Configuración.3Selecciona Notificaciones y da clic en continuar.4Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.5Selecciona todas tus cuentas y quita la palomita donde dice Papel.6¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.¿Te fue útil esta información?SíNo¿Ya conoces qué es NetKey?Descubre cómo funciona y realiza tus operaciones en nuestros canales digitalesMe interesaConoce nuestras aplicacionesy facilita tu día a díaCitibanamex MóvilDescarga la app y comienza a disfrutar sus beneficios.Conoce más sobre la appAforeMóvil CitibanamexDomicilia tus aportaciones y ten el control de tu retiro.Descubre sus beneficiosDescubre todo lo que puedes hacer con nuestros canales digitalesPreguntas Frecuentes¿Es seguro consultar mi Estado de Cuenta en línea?Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.¿Dónde obtengo mi contraseña para abrir mi Estado de Cuenta?¿Dejaré de recibir Estados de Cuenta impresos?¿En dónde puedo ver mi Estado de Cuenta Electrónico?¿Cuántas veces puedo consultarlo?¿Por qué ya no recibí mi Smart Statement?¿Deseas activar tu Estado de Cuenta Electrónico?De la Ciudad de México55 1226 2639Ir a Centro de AyudaAdemás de protegerte, te apoyamos a cumplir tus objetivosSiéntete seguro, previniendo imprevistos con nuestros Seguros Citibanamex. Conoce las opciones que tenemos para ti como: seguro de auto, seguro de vida, seguro de hospitalización, seguro de casa, seguro de pyme, seguro de viaje, seguro de accidente protegido, seguro de bolso protegido y seguro de compras protegidas.Conoces nuestras Tarjetas de Crédito Citibanamex o cuentas de débito y elige la que mejor se adapte a tus necesidades. Además aprovecha las Preventas Citibanamex, nuestras promociones, los beneficios en viajes y nuestra banca digital para hacer tu vida más cómoda.Recibe apoyo financiero y cumple tus metas con nuestras opciones en crédito de nómina, crédito personal, crédito hipotecario y fondos de inversión.Si aun no eres cliente Citibanamex, cambia tu nómina y aprovecha grandes beneficios al realizar tu portabilidad de nómina.El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+                    Estado de Cuenta Electrónico Citibanamex | Citibanamex.com                                                                                                              .cbx-link[m-theme="white"] {        color: #00bdf2;        font-size: inherit;      }      .cbx-tooltip[m-theme=dark]>.cbx-legal::after {        border-bottom: 5px solid white;        top: -4px;      }      .cbx-tooltip[m-mody~=robust][m-open=true]::before {        content: none;      }      .cbx-tooltip[m-mody~=robust] .content {        max-width: 150px;        min-width: 150px;      }      .cbx-link[m-theme="white"]:hover {        color: #00bdf2;      }      .cbx-link[m-theme=white]::after {        background-color: #00bdf2;      }      b {        font-size: inherit;      }      .success-icon {        fill: #fff;        flex-shrink: 0;        background-color: #84bd00;        border-radius: 100%;        margin-right: 2%;      }      .estado-seccion{        min-height: 624px;        overflow: hidden;      }      .estado-seccion > div {        align-items: center;        display: flex;        justify-content: center;        overflow: hidden;        height: auto;        min-height: 624px;        margin-right: auto;        margin-left: auto;      }      .estado-seccion .js-step{        width: 100%;      }      .cbx-tooltip[m-theme="dark"] {        background-color: transparent;        display: inline-block;        margin: 0;      }      .cbx-tooltip[m-theme="dark"] .content {        background-color: white;      }      .min-w-auto {        min-width: auto !important;      }      [m-desk=steps]>.cbx-img {        display: flex;        align-items: center;        justify-content: center;        position: absolute;        overflow: hidden;        z-index: -1;        top: 0;        left: 0;        width: 100%;        height: 100%;        bottom: 0;      }      .estado-seccion .cbx-link{        display: inline-flex;      }.white-space {          white-space:nowrap;        }      @media (min-width: 1024px) {        [m-browser="ie"] .estado-seccion > div {          height: 700px;        }      }      @media (min-width: 1280px) {        .md\:text-18 {            font-size: 1.125rem !important;        }        [m-browser="ie"] .estado-seccion > div {          height: 624px;        }      }      .tooltip {        opacity: 1 !important;      }      .tooltip-inner {        background: white;        color: #333;        font-family: IL,Arial,Helvetica,sans-serif;        font-size: 12px;        padding: 10px;      }      .tooltip-arrow {        border-bottom-color: white !important;      }      .cbx-tooltip .content.cbx-legal {        font-size: 12px !important;      }      /* .absolute-center{       left:50%;       position:absolute;       top:50%;       transform:translate(-50%, -50%);      } */      .bg-accent-near-white {        background-color: #f5f7fc !important;      }      @media (max-width:375px) {        .absolute-center {          top:70%;        }      }      .cbx-sub-headline {        color: #323232;        }        article.cbx-card {          box-shadow: none!important;        }        @media (min-width: 768px){        .c-row.col-2>* {            margin: auto;}}            hr{              border-bottom: none;            }                    body {opacity: 0 !important}
+Estado de Cuenta Electrónico Citibanamex | Citibanamex.com
+      .cbx-link[m-theme="white"] {        color: #00bdf2;        font-size: inherit;      }      .cbx-tooltip[m-theme=dark]>.cbx-legal::after {        border-bottom: 5px solid white;        top: -4px;      }      .cbx-tooltip[m-mody~=robust][m-open=true]::before {        content: none;      }      .cbx-tooltip[m-mody~=robust] .content {        max-width: 150px;        min-width: 150px;      }      .cbx-link[m-theme="white"]:hover {        color: #00bdf2;      }      .cbx-link[m-theme=white]::after {        background-color: #00bdf2;      }      b {        font-size: inherit;      }      .success-icon {        fill: #fff;        flex-shrink: 0;        background-color: #84bd00;        border-radius: 100%;        margin-right: 2%;      }      .estado-seccion{        min-height: 624px;        overflow: hidden;      }      .estado-seccion > div {        align-items: center;        display: flex;        justify-content: center;        overflow: hidden;        height: auto;        min-height: 624px;        margin-right: auto;        margin-left: auto;      }      .estado-seccion .js-step{        width: 100%;      }      .cbx-tooltip[m-theme="dark"] {        background-color: transparent;        display: inline-block;        margin: 0;      }      .cbx-tooltip[m-theme="dark"] .content {        background-color: white;      }      .min-w-auto {        min-width: auto !important;      }      [m-desk=steps]>.cbx-img {        display: flex;        align-items: center;        justify-content: center;        position: absolute;        overflow: hidden;        z-index: -1;        top: 0;        left: 0;        width: 100%;        height: 100%;        bottom: 0;      }      .estado-seccion .cbx-link{        display: inline-flex;      }.white-space {          white-space:nowrap;        }      @media (min-width: 1024px) {        [m-browser="ie"] .estado-seccion > div {          height: 700px;        }      }      @media (min-width: 1280px) {        .md\:text-18 {            font-size: 1.125rem !important;        }        [m-browser="ie"] .estado-seccion > div {          height: 624px;        }      }      .tooltip {        opacity: 1 !important;      }      .tooltip-inner {        background: white;        color: #333;        font-family: IL,Arial,Helvetica,sans-serif;        font-size: 12px;        padding: 10px;      }      .tooltip-arrow {        border-bottom-color: white !important;      }      .cbx-tooltip .content.cbx-legal {        font-size: 12px !important;      }      /* .absolute-center{       left:50%;       position:absolute;       top:50%;       transform:translate(-50%, -50%);      } */      .bg-accent-near-white {        background-color: #f5f7fc !important;      }      @media (max-width:375px) {        .absolute-center {          top:70%;        }      }      .cbx-sub-headline {        color: #323232;        }        article.cbx-card {          box-shadow: none!important;        }        @media (min-width: 768px){        .c-row.col-2>* {            margin: auto;}}            hr{              border-bottom: none;            }    
+body {opacity: 0 !important}
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Descarga o recibe tu Estado de CuentaDesde donde estésConocer más
+Descarga o recibe tu Estado de Cuenta
+Desde donde estés
+Conocer más
+Servicios Digitales: BancaNet Audiomático Notificaciones Estado de Cuenta Cajeros
+Servicios Digitales:
+BancaNet
+Audiomático
+Notificaciones
+Estado de Cuenta
+Cajeros
+ESTADO DE CUENTA ELECTRÓNICOConsulta tu información estés donde estésSeguridadEstablece tu contraseña.Identifica cargos no reconocidos.ControlConoce tus saldos, movimientos y fecha de pago.Recíbelo entre 5 a 10 días después de tu fecha de corte.PrácticoConsúltalo en cualquier dispositivo.
+ESTADO DE CUENTA ELECTRÓNICO
+Consulta tu información estés donde estés
+SeguridadEstablece tu contraseña.Identifica cargos no reconocidos.ControlConoce tus saldos, movimientos y fecha de pago.Recíbelo entre 5 a 10 días después de tu fecha de corte.PrácticoConsúltalo en cualquier dispositivo.
+SeguridadEstablece tu contraseña.Identifica cargos no reconocidos.
+Seguridad
+Establece tu contraseña.
+Identifica cargos no reconocidos.
+ControlConoce tus saldos, movimientos y fecha de pago.Recíbelo entre 5 a 10 días después de tu fecha de corte.
+Control
+Conoce tus saldos, movimientos y fecha de pago.
+Recíbelo entre 5 a 10 días después de tu fecha de corte.
+PrácticoConsúltalo en cualquier dispositivo.
+Práctico
+Consúltalo en cualquier dispositivo.
+Estado de Cuenta Citibanamex¿Qué quieres hacer?Obtener mi estado de cuentaRecuperar la contraseña de mi estado de cuentaVer mis movimientos y saldo en línea
+Estado de Cuenta Citibanamex
+¿Qué quieres hacer?
+Obtener mi estado de cuentaRecuperar la contraseña de mi estado de cuentaVer mis movimientos y saldo en línea
+Obtener mi estado de cuenta
+Recuperar la contraseña de mi estado de cuenta
+Ver mis movimientos y saldo en línea
+                      Obtener mi estado de cuenta                                ¿Vas a una sucursal por tu estado de cuenta impreso?                                              Sí                                      No                                                                                  Regresar                  
+            Obtener mi estado de cuenta          
+            ¿Vas a una sucursal por tu estado de cuenta impreso?          
+                          Sí                                      No                      
+              Sí            
+              No            
+                                                  Regresar          
+                          
+                      Obtener mi estado de cuenta                                              Descargarlo con BancaNet                                      Recibirlo por correo electrónico                                                                                  Regresar                  
+                          Descargarlo con BancaNet                                      Recibirlo por correo electrónico                      
+              Descargarlo con BancaNet            
+              Recibirlo por correo electrónico            
+                      Descargar mi estado de cuenta con BancaNet                                ¿Qué producto quieres revisar?                                            Tarjeta de Crédito                                      Cuenta de Débito                                                                                  Regresar                  
+            Descargar mi estado de cuenta con BancaNet          
+            ¿Qué producto quieres revisar?          
+                        Tarjeta de Crédito                                      Cuenta de Débito                      
+            Tarjeta de Crédito            
+              Cuenta de Débito            
+                      Descargar mi estado de cuenta con BancaNet                                Tarjeta de Crédito                                                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la tarjeta que deseas consultar.                                                                                                                Regresar                                              ¿Cómo entrar por primera vez a BancaNet?                                                          ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Tarjeta de Crédito          
+                                                            1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la tarjeta que deseas consultar.                                                    
+                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la tarjeta que deseas consultar.                                          
+                                  1 - Entra a BancaNet.                              
+                  1 - Entra a BancaNet.                
+BancaNet.
+                                  2 - Haz clic en Conﬁguración.                              
+                  2 - Haz clic en Conﬁguración.                
+                                  3 - Selecciona Estados de cuenta.                              
+                  3 - Selecciona Estados de cuenta.                
+                                  4 - Da clic en Descargar estados de cuenta.                              
+                  4 - Da clic en Descargar estados de cuenta.                
+                                  5 - Selecciona la tarjeta que deseas consultar.                              
+                  5 - Selecciona la tarjeta que deseas consultar.                
+                          ¿Cómo entrar por primera vez a BancaNet?                      
+              ¿Cómo entrar por primera vez a BancaNet?            
+                          ¿Te fue útil esta información?                                      Sí              No                      
+              ¿Te fue útil esta información?            
+¿Te fue útil esta información?
+              Sí              No            
+Sí
+No
+                                                            
+                      Descargar mi estado de cuenta con BancaNet                                ¿Cómo entrar por primera vez a BancaNet?                                                                                1 - Entra a BancaNet y haz clic en Registrarte.                                                                              2 - Ingresa tu número de cliente o número de tarjeta de crédito.                                                                              3 - Veriﬁca tus iniciales y elige una opción para registrarte.                                                                              4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                                                                              5 - Crea y conﬁrma tu clave alfanumérica.                                                                              6 - Ingresa el código SMS que llegó a tu celular.                                                                              7 - Entra a BancaNet con tu nueva clave alfanumérica.                                                                                                                Regresar                                                                                                                      Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            ¿Cómo entrar por primera vez a BancaNet?          
+                                                            1 - Entra a BancaNet y haz clic en Registrarte.                                                                              2 - Ingresa tu número de cliente o número de tarjeta de crédito.                                                                              3 - Veriﬁca tus iniciales y elige una opción para registrarte.                                                                              4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                                                                              5 - Crea y conﬁrma tu clave alfanumérica.                                                                              6 - Ingresa el código SMS que llegó a tu celular.                                                                              7 - Entra a BancaNet con tu nueva clave alfanumérica.                                                    
+                                                1 - Entra a BancaNet y haz clic en Registrarte.                                                                              2 - Ingresa tu número de cliente o número de tarjeta de crédito.                                                                              3 - Veriﬁca tus iniciales y elige una opción para registrarte.                                                                              4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                                                                              5 - Crea y conﬁrma tu clave alfanumérica.                                                                              6 - Ingresa el código SMS que llegó a tu celular.                                                                              7 - Entra a BancaNet con tu nueva clave alfanumérica.                                          
+                                  1 - Entra a BancaNet y haz clic en Registrarte.                              
+                  1 - Entra a BancaNet y haz clic en Registrarte.                
+                                  2 - Ingresa tu número de cliente o número de tarjeta de crédito.                              
+                  2 - Ingresa tu número de cliente o número de tarjeta de crédito.                
+                                  3 - Veriﬁca tus iniciales y elige una opción para registrarte.                              
+                  3 - Veriﬁca tus iniciales y elige una opción para registrarte.                
+                                  4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                              
+                  4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                
+                                  5 - Crea y conﬁrma tu clave alfanumérica.                              
+                  5 - Crea y conﬁrma tu clave alfanumérica.                
+                                  6 - Ingresa el código SMS que llegó a tu celular.                              
+                  6 - Ingresa el código SMS que llegó a tu celular.                
+                                  7 - Entra a BancaNet con tu nueva clave alfanumérica.                              
+                  7 - Entra a BancaNet con tu nueva clave alfanumérica.                
+                                                                                                  Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.                                                
+                                                                          Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.                          
+                              
+                Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.              
+                      Para descargar tu estado de cuenta de débito, necesitas tener Netkey                                ¿Tienes Netkey?                                          Sí                                No                                                                                Regresar                  
+            Para descargar tu estado de cuenta de débito, necesitas tener Netkey          
+estado de cuenta de débito
+            ¿Tienes Netkey?          
+                      Sí                                No                    
+            Sí          
+            No          
+                      Descargar mi estado de cuenta con BancaNet                                Cuenta de Débito                                                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la cuenta que deseas consultar.                                                                              6 - Da clic en Consultar.                                                                              7 - Ingresa la clave dinámica de tu Netkey.                                                                                                                Regresar                                              ¿Cómo entrar por primera vez a BancaNet?                                                          ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Cuenta de Débito          
+                                                            1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la cuenta que deseas consultar.                                                                              6 - Da clic en Consultar.                                                                              7 - Ingresa la clave dinámica de tu Netkey.                                                    
+                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Estados de cuenta.                                                                              4 - Da clic en Descargar estados de cuenta.                                                                              5 - Selecciona la cuenta que deseas consultar.                                                                              6 - Da clic en Consultar.                                                                              7 - Ingresa la clave dinámica de tu Netkey.                                          
+Conﬁguración.
+Estados de cuenta.
+Descargar estados de cuenta.
+                                  5 - Selecciona la cuenta que deseas consultar.                              
+                  5 - Selecciona la cuenta que deseas consultar.                
+Selecciona la cuenta
+                                  6 - Da clic en Consultar.                              
+                  6 - Da clic en Consultar.                
+Consultar.
+                                  7 - Ingresa la clave dinámica de tu Netkey.                              
+                  7 - Ingresa la clave dinámica de tu Netkey.                
+Netkey.
+                      Descargar mi estado de cuenta con BancaNet                                Obtén tu Netkey Móvil                                                                                1 - Descarga Citibanamex Móvil.                                                                              2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                                                                              3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                                                                                                                                                      Regresar                                              ¿Ya tienes NetKey? Conoce cómo descargar tu estado de cuenta de débito                                                                                                                                  Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Obtén tu Netkey Móvil          
+                                                            1 - Descarga Citibanamex Móvil.                                                                              2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                                                                              3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                                                                                          
+                                                1 - Descarga Citibanamex Móvil.                                                                              2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                                                                              3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                                          
+                                  1 - Descarga Citibanamex Móvil.                              
+                  1 - Descarga Citibanamex Móvil.                
+Citibanamex Móvil.
+                                  2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                              
+                  2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                
+                                  3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                              
+                  3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                
+                          ¿Ya tienes NetKey? Conoce cómo descargar tu estado de cuenta de débito                      
+              ¿Ya tienes NetKey? Conoce cómo descargar tu estado de cuenta de débito            
+                                                                                                  Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.                                                
+                                                                          Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.                          
+                Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.              
+                      Recibir mi estado de cuenta por correo electrónico             Para realizar esta acción, necesitas tener Netkey                                ¿Tienes Netkey?                                                Sí                                      No                                                                                  Regresar                  
+            Recibir mi estado de cuenta por correo electrónico             Para realizar esta acción, necesitas tener Netkey          
+Para realizar esta acción, necesitas tener Netkey
+                            Sí                                      No                      
+                      Obtener mi estado de cuenta                                Recibirlo por correo electrónico                                                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Selecciona Alta/Baja/Modiﬁcación de Notiﬁcaciones.                                                                              6 - Selecciona todas tus cuentas.                                                                              7 - También puedes quitar la opción de Papel.                                                                                                                                8 - ¡Listo! Recibirás tus siguientes estados de cuenta                   en formato PDF al correo electrónico que registraste.                                                                                                                Regresar                                              ¿Cómo entrar por primera vez a BancaNet?                                                                                                                                  Ayuda al medio ambiente al dejar de recibir tu estado de cuenta en papel.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Recibirlo por correo electrónico          
+                                                            1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Selecciona Alta/Baja/Modiﬁcación de Notiﬁcaciones.                                                                              6 - Selecciona todas tus cuentas.                                                                              7 - También puedes quitar la opción de Papel.                                                                                                                                8 - ¡Listo! Recibirás tus siguientes estados de cuenta                   en formato PDF al correo electrónico que registraste.                                                    
+                                                1 - Entra a BancaNet.                                                                              2 - Haz clic en Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Selecciona Alta/Baja/Modiﬁcación de Notiﬁcaciones.                                                                              6 - Selecciona todas tus cuentas.                                                                              7 - También puedes quitar la opción de Papel.                                                                                                                                8 - ¡Listo! Recibirás tus siguientes estados de cuenta                   en formato PDF al correo electrónico que registraste.                                          
+                                  3 - Selecciona Notificaciones y da clic en Continuar.                              
+                  3 - Selecciona Notificaciones y da clic en Continuar.                
+Notificaciones y da clic en Continuar.
+                                  4 - Ingresa la clave dinámica de tu Netkey.                              
+                  4 - Ingresa la clave dinámica de tu Netkey.                
+                                  5 - Selecciona Alta/Baja/Modiﬁcación de Notiﬁcaciones.                              
+                  5 - Selecciona Alta/Baja/Modiﬁcación de Notiﬁcaciones.                
+Alta/Baja/Modiﬁcación de Notiﬁcaciones.
+                                  6 - Selecciona todas tus cuentas.                              
+                  6 - Selecciona todas tus cuentas.                
+todas tus cuentas.
+                                  7 - También puedes quitar la opción de Papel.                                                                                
+                  7 - También puedes quitar la opción de Papel.                
+Papel.
+                                  
+                                  8 - ¡Listo! Recibirás tus siguientes estados de cuenta                   en formato PDF al correo electrónico que registraste.                              
+                  8 - ¡Listo! Recibirás tus siguientes estados de cuenta                   en formato PDF al correo electrónico que registraste.                
+PDF al correo electrónico que registraste.
+                                                                                                  Ayuda al medio ambiente al dejar de recibir tu estado de cuenta en papel.                                                
+                                                                          Ayuda al medio ambiente al dejar de recibir tu estado de cuenta en papel.                          
+                Ayuda al medio ambiente al dejar de recibir tu estado de cuenta en papel.              
+                      Recibir mi estado de cuenta por correo electrónico                                Obtén tu Netkey Móvil                                                                                1 - Descarga Citibanamex Móvil.                                                                              2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                                                                              3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                                                                                                                                                      Regresar                                              ¿Ya tienes NetKey? Conoce cómo recibir tu estado de cuenta por correo electrónico                                                                                                                                  Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Recibir mi estado de cuenta por correo electrónico          
+                          ¿Ya tienes NetKey? Conoce cómo recibir tu estado de cuenta por correo electrónico                      
+              ¿Ya tienes NetKey? Conoce cómo recibir tu estado de cuenta por correo electrónico            
+                      Deberás usar tu NetKey para crear una nueva contraseña con la que podrás consultar los Estados de Cuenta que descargues de BancaNet.                                ¿Tienes Netkey?                                                Sí                                      No                                                                                  Regresar                                                                                                                      Los que hayas recibido o descargado previamente solo se podrán abrir con tu contraseña anterior.                                                        
+            Deberás usar tu NetKey para crear una nueva contraseña con la que podrás consultar los Estados de Cuenta que descargues de BancaNet.          
+Deberás usar tu NetKey
+                                                                                                  Los que hayas recibido o descargado previamente solo se podrán abrir con tu contraseña anterior.                                                
+                                                                          Los que hayas recibido o descargado previamente solo se podrán abrir con tu contraseña anterior.                          
+                Los que hayas recibido o descargado previamente solo se podrán abrir con tu contraseña anterior.              
+                      Crear una nueva contraseña para mi estado de cuenta                                en BancaNet                                                                                1 - Entra a BancaNet.                                                                              2 - Accede al menú Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Elige Generar nueva contraseña para Estado de Cuenta por e-mail.                                                                              6 - Crea tu nueva contraseña y confírmala. (Mínimo 9 y máximo 12 caracteres alfanuméricos, incluye mayúsculas, minúsculas y números).                                                                              7 -  ¡Listo! Haz creado tu nueva contraseña.                                                                                                                Regresar                                              ¿Cómo entrar por primera vez a BancaNet?                                                                                                                                  La nueva contraseña estará activa 48 horas después de esta modificación y te servirá para abrir los estados de cuenta que recibas. Los estados de Cuenta recibidos previamente solo los podrás abrir con tu clave anterior.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Crear una nueva contraseña para mi estado de cuenta          
+            en BancaNet          
+                                                            1 - Entra a BancaNet.                                                                              2 - Accede al menú Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Elige Generar nueva contraseña para Estado de Cuenta por e-mail.                                                                              6 - Crea tu nueva contraseña y confírmala. (Mínimo 9 y máximo 12 caracteres alfanuméricos, incluye mayúsculas, minúsculas y números).                                                                              7 -  ¡Listo! Haz creado tu nueva contraseña.                                                    
+                                                1 - Entra a BancaNet.                                                                              2 - Accede al menú Conﬁguración.                                                                              3 - Selecciona Notificaciones y da clic en Continuar.                                                                              4 - Ingresa la clave dinámica de tu Netkey.                                                                              5 - Elige Generar nueva contraseña para Estado de Cuenta por e-mail.                                                                              6 - Crea tu nueva contraseña y confírmala. (Mínimo 9 y máximo 12 caracteres alfanuméricos, incluye mayúsculas, minúsculas y números).                                                                              7 -  ¡Listo! Haz creado tu nueva contraseña.                                          
+                                  2 - Accede al menú Conﬁguración.                              
+                  2 - Accede al menú Conﬁguración.                
+Ingresa la clave
+                                  5 - Elige Generar nueva contraseña para Estado de Cuenta por e-mail.                              
+                  5 - Elige Generar nueva contraseña para Estado de Cuenta por e-mail.                
+Elige Generar nueva contraseña
+                                  6 - Crea tu nueva contraseña y confírmala. (Mínimo 9 y máximo 12 caracteres alfanuméricos, incluye mayúsculas, minúsculas y números).                              
+                  6 - Crea tu nueva contraseña y confírmala. (Mínimo 9 y máximo 12 caracteres alfanuméricos, incluye mayúsculas, minúsculas y números).                
+                                  7 -  ¡Listo! Haz creado tu nueva contraseña.                              
+                  7 -  ¡Listo! Haz creado tu nueva contraseña.                
+                                                                                                  La nueva contraseña estará activa 48 horas después de esta modificación y te servirá para abrir los estados de cuenta que recibas. Los estados de Cuenta recibidos previamente solo los podrás abrir con tu clave anterior.                                                
+                                                                          La nueva contraseña estará activa 48 horas después de esta modificación y te servirá para abrir los estados de cuenta que recibas. Los estados de Cuenta recibidos previamente solo los podrás abrir con tu clave anterior.                          
+                La nueva contraseña estará activa 48 horas después de esta modificación y te servirá para abrir los estados de cuenta que recibas. Los estados de Cuenta recibidos previamente solo los podrás abrir con tu clave anterior.              
+                      Crear una nueva contraseña para mi estado de cuenta                                ¿Cómo entrar por primera vez a BancaNet?                                                                                1 - Entra a BancaNet y haz clic en Registrarte.                                                                              2 - Ingresa tu número de cliente o número de tarjeta de crédito.                                                                              3 - Veriﬁca tus iniciales y elige una opción para registrarte.                                                                              4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                                                                              5 - Crea y conﬁrma tu clave alfanumérica.                                                                              6 - Ingresa el código SMS que llegó a tu celular.                                                                              7 - Entra a BancaNet con tu nueva clave alfanumérica.                                                                                                                Regresar                                                                                                                      Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+                      Crear una nueva contraseña para mi estado de cuenta                                Obtén tu Netkey Móvil                                                                                1 - Descarga Citibanamex Móvil.                                                                              2 - Acude a una Sucursal Citibanamex con tu INE/IFE                   y el celular donde tienes la app Citibanamex Móvil.                                                                              3 - Solicita a un ejecutivo la activación de tu Netkey Móvil                                                                                                                                                      Regresar                                              ¿Ya tienes NetKey? Conoce cómo recuperar la contraseña de tu estado de cuenta                                                                                                                                  Tu smartphone debe tener un sistema operativo iOS 10.0, Android 5.0 o superiores.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+                          ¿Ya tienes NetKey? Conoce cómo recuperar la contraseña de tu estado de cuenta                      
+              ¿Ya tienes NetKey? Conoce cómo recuperar la contraseña de tu estado de cuenta            
+                      Ver mis saldos y movimientos en línea                                ¿Qué plataforma preﬁeres usar?                                                BancaNet                                      Citibanamex Móvil                                                                                  Regresar                  
+            Ver mis saldos y movimientos en línea          
+            ¿Qué plataforma preﬁeres usar?          
+                            BancaNet                                      Citibanamex Móvil                      
+              BancaNet            
+              Citibanamex Móvil            
+                      Ver mis saldos y movimientos en                                BancaNet                                                                                1 - Entra a BancaNet.                                                                              2 - En la seccion ¿Qué deseas consultar? podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                                                                                                Regresar                                              ¿Cómo entrar por primera vez a BancaNet?                                                          ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Ver mis saldos y movimientos en          
+            BancaNet          
+                                                            1 - Entra a BancaNet.                                                                              2 - En la seccion ¿Qué deseas consultar? podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                                    
+                                                1 - Entra a BancaNet.                                                                              2 - En la seccion ¿Qué deseas consultar? podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                          
+                                  2 - En la seccion ¿Qué deseas consultar? podrás ver tus saldos.                              
+                  2 - En la seccion ¿Qué deseas consultar? podrás ver tus saldos.                
+                                  3 - Selecciona la tarjeta o cuenta que quieras revisar.                              
+                  3 - Selecciona la tarjeta o cuenta que quieras revisar.                
+                                  4 - Podrás ver tus movimientos del periodo actual y anterior.                              
+                  4 - Podrás ver tus movimientos del periodo actual y anterior.                
+                      Ver mis saldos y movimientos en                                ¿Cómo entrar por primera vez a BancaNet?                                                                                1 - Entra a BancaNet y haz clic en Registrarte.                                                                              2 - Ingresa tu número de cliente o número de tarjeta de crédito.                                                                              3 - Veriﬁca tus iniciales y elige una opción para registrarte.                                                                              4 - Ingresa los 10 dígitos del número celular que registraste en sucursal.                                                                              5 - Crea y conﬁrma tu clave alfanumérica.                                                                              6 - Ingresa el código SMS que llegó a tu celular.                                                                              7 - Entra a BancaNet con tu nueva clave alfanumérica.                                                                                                                Regresar                                                                                                                      Recuerda que si ya utilizas Citibanamex Móvil, puedes entrar a BancaNet con la misma contraseña y tu número de cliente o de tarjeta.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+                      Ver mis saldos y movimientos en                                Citibanamex Móvil                                                                                1 - Entra a Citibanamex Móvil.                                                                              2 - En la primera pantalla podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                                                                                                Regresar                                              ¿Cómo ingreso a Citibanamex Móvil?                                                          ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            Citibanamex Móvil          
+                                                            1 - Entra a Citibanamex Móvil.                                                                              2 - En la primera pantalla podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                                    
+                                                1 - Entra a Citibanamex Móvil.                                                                              2 - En la primera pantalla podrás ver tus saldos.                                                                              3 - Selecciona la tarjeta o cuenta que quieras revisar.                                                                              4 - Podrás ver tus movimientos del periodo actual y anterior.                                          
+                                  1 - Entra a Citibanamex Móvil.                              
+                  1 - Entra a Citibanamex Móvil.                
+Citibanamex Móvil
+                                  2 - En la primera pantalla podrás ver tus saldos.                              
+                  2 - En la primera pantalla podrás ver tus saldos.                
+podrás ver tus saldos.
+Selecciona la tarjeta o cuenta
+periodo actual y anterior.
+                          ¿Cómo ingreso a Citibanamex Móvil?                      
+              ¿Cómo ingreso a Citibanamex Móvil?            
+                      Ver mis saldos y movimientos en                                ¿Cómo ingresar a Citibanamex móvil por primera vez?                                                                                1 - Descarga Citibanamex Móvil en tu celular.                                                                              2 - Presiona Regístrate.                                                                              3 - Ingresa tu número de cliente o número de tu Tarjeta de Crédito Citibanamex.                                                                              4 - Veriﬁca  tú número celular.                                                                              5 - Ingresa el código SMS que llegó a tu celular.                                                                              6 - Crea tu contraseña y ¡listo!                                                                                                  Descarga                                   Citibanamex Móvil                                                                             Descarga             Citibanamex Móvil                                                                               Regresar                                                                                                                      Si ya usas BancaNet no es necesario registrarte, solo ingresa con la misma contraseña.                                                                                    ¿Te fue útil esta información?                                      Sí              No                                                                                                    
+            ¿Cómo ingresar a Citibanamex móvil por primera vez?          
+                                                            1 - Descarga Citibanamex Móvil en tu celular.                                                                              2 - Presiona Regístrate.                                                                              3 - Ingresa tu número de cliente o número de tu Tarjeta de Crédito Citibanamex.                                                                              4 - Veriﬁca  tú número celular.                                                                              5 - Ingresa el código SMS que llegó a tu celular.                                                                              6 - Crea tu contraseña y ¡listo!                                                                                                  Descarga                                   Citibanamex Móvil                                                                             Descarga             Citibanamex Móvil                   
+                                                1 - Descarga Citibanamex Móvil en tu celular.                                                                              2 - Presiona Regístrate.                                                                              3 - Ingresa tu número de cliente o número de tu Tarjeta de Crédito Citibanamex.                                                                              4 - Veriﬁca  tú número celular.                                                                              5 - Ingresa el código SMS que llegó a tu celular.                                                                              6 - Crea tu contraseña y ¡listo!                                          
+                                  1 - Descarga Citibanamex Móvil en tu celular.                              
+                  1 - Descarga Citibanamex Móvil en tu celular.                
+                                  2 - Presiona Regístrate.                              
+                  2 - Presiona Regístrate.                
+                                  3 - Ingresa tu número de cliente o número de tu Tarjeta de Crédito Citibanamex.                              
+                  3 - Ingresa tu número de cliente o número de tu Tarjeta de Crédito Citibanamex.                
+                                  4 - Veriﬁca  tú número celular.                              
+                  4 - Veriﬁca  tú número celular.                
+Veriﬁca
+                                  5 - Ingresa el código SMS que llegó a tu celular.                              
+                  5 - Ingresa el código SMS que llegó a tu celular.                
+Ingresa el código SMS
+                                  6 - Crea tu contraseña y ¡listo!                              
+                  6 - Crea tu contraseña y ¡listo!                
+y ¡listo!
+                                            Descarga                                   Citibanamex Móvil                                          
+                Descarga                                   Citibanamex Móvil                              
+                  Citibanamex Móvil                
+            Descarga             Citibanamex Móvil          
+                                                                                                  Si ya usas BancaNet no es necesario registrarte, solo ingresa con la misma contraseña.                                                
+                                                                          Si ya usas BancaNet no es necesario registrarte, solo ingresa con la misma contraseña.                          
+                Si ya usas BancaNet no es necesario registrarte, solo ingresa con la misma contraseña.              
+¿Quieres dejar de recibir tu estado de cuenta impreso?1Ingresa a BancaNet.2En el menú principal selecciona la opción Configuración.3Selecciona Notificaciones y da clic en continuar.4Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.5Selecciona todas tus cuentas y quita la palomita donde dice Papel.6¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.¿Te fue útil esta información?SíNo
+¿Quieres dejar de recibir tu estado de cuenta impreso?
+cuenta impreso?
+1Ingresa a BancaNet.2En el menú principal selecciona la opción Configuración.3Selecciona Notificaciones y da clic en continuar.4Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.5Selecciona todas tus cuentas y quita la palomita donde dice Papel.6¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.¿Te fue útil esta información?SíNo
+1Ingresa a BancaNet.2En el menú principal selecciona la opción Configuración.3Selecciona Notificaciones y da clic en continuar.4Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.5Selecciona todas tus cuentas y quita la palomita donde dice Papel.6¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.
+1Ingresa a BancaNet.
+1
+Ingresa a BancaNet.
+2En el menú principal selecciona la opción Configuración.
+2
+En el menú principal selecciona la opción Configuración.
+la opción Configuración.
+Configuración.
+3Selecciona Notificaciones y da clic en continuar.
+3
+Selecciona Notificaciones y da clic en continuar.
+en continuar.
+continuar.
+4Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.
+4
+Ingresa la clave dinámica de tu NetKey y selecciona Alta/Baja/Modificación de Notificaciones.
+NetKey
+Alta/Baja/Modificación de Notificaciones.
+de Notificaciones.
+5Selecciona todas tus cuentas y quita la palomita donde dice Papel.
+5
+Selecciona todas tus cuentas y quita la palomita donde dice Papel.
+6¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.
+6
+¡Listo! Recibirás tus siguientes estados de cuenta en PDF en tu correo electrónico.
+correo electrónico.
+¿Te fue útil esta información?SíNo
+SíNo
+                                                                                                    
+¿Ya conoces qué es NetKey?Descubre cómo funciona y realiza tus operaciones en nuestros canales digitalesMe interesa
+¿Ya conoces qué es NetKey?
+Descubre cómo funciona y realiza tus operaciones en nuestros canales digitales
+Me interesa
+Conoce nuestras aplicacionesy facilita tu día a díaCitibanamex MóvilDescarga la app y comienza a disfrutar sus beneficios.Conoce más sobre la appAforeMóvil CitibanamexDomicilia tus aportaciones y ten el control de tu retiro.Descubre sus beneficiosDescubre todo lo que puedes hacer con nuestros canales digitales
+Conoce nuestras aplicacionesy facilita tu día a día
+Conoce nuestras aplicaciones
+y facilita tu día a día
+Citibanamex MóvilDescarga la app y comienza a disfrutar sus beneficios.Conoce más sobre la appAforeMóvil CitibanamexDomicilia tus aportaciones y ten el control de tu retiro.Descubre sus beneficios
+Citibanamex MóvilDescarga la app y comienza a disfrutar sus beneficios.Conoce más sobre la app
+Descarga la app y comienza a disfrutar sus beneficios.
+Conoce más sobre la app
+AforeMóvil CitibanamexDomicilia tus aportaciones y ten el control de tu retiro.Descubre sus beneficios
+AforeMóvil Citibanamex
+Domicilia tus aportaciones y ten el control de tu retiro.
+Descubre sus beneficios
+Descubre todo lo que puedes hacer con nuestros canales digitales
+canales digitales
+Preguntas Frecuentes¿Es seguro consultar mi Estado de Cuenta en línea?Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.¿Dónde obtengo mi contraseña para abrir mi Estado de Cuenta?¿Dejaré de recibir Estados de Cuenta impresos?¿En dónde puedo ver mi Estado de Cuenta Electrónico?¿Cuántas veces puedo consultarlo?¿Por qué ya no recibí mi Smart Statement?¿Deseas activar tu Estado de Cuenta Electrónico?De la Ciudad de México55 1226 2639Ir a Centro de Ayuda
+Preguntas Frecuentes
+¿Es seguro consultar mi Estado de Cuenta en línea?Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.¿Dónde obtengo mi contraseña para abrir mi Estado de Cuenta?¿Dejaré de recibir Estados de Cuenta impresos?¿En dónde puedo ver mi Estado de Cuenta Electrónico?¿Cuántas veces puedo consultarlo?¿Por qué ya no recibí mi Smart Statement?¿Deseas activar tu Estado de Cuenta Electrónico?De la Ciudad de México55 1226 2639Ir a Centro de Ayuda
+¿Es seguro consultar mi Estado de Cuenta en línea?Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.¿Dónde obtengo mi contraseña para abrir mi Estado de Cuenta?¿Dejaré de recibir Estados de Cuenta impresos?¿En dónde puedo ver mi Estado de Cuenta Electrónico?¿Cuántas veces puedo consultarlo?¿Por qué ya no recibí mi Smart Statement?
+¿Es seguro consultar mi Estado de Cuenta en línea?Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.
+¿Es seguro consultar mi Estado de Cuenta en línea?
+Tu información financiera siempre está protegida por nosotros, revisar tu estado de cuenta en línea es completamente seguro.
+¿Dónde obtengo mi contraseña para abrir mi Estado de Cuenta?
+                                    Deberás iniciar el proceso de activación de tu Estado de Cuenta Electrónico y obtendrás tu clave a través de BancaNet o Audiomático.                                
+Deberás iniciar el proceso de activación de tu Estado de Cuenta Electrónico y obtendrás tu clave a través de BancaNet o Audiomático.
+¿Dejaré de recibir Estados de Cuenta impresos?
+                                    Sí, en caso de necesitar nuevamente tus estados de cuenta impresos deberás acudir a tu sucursal Citibanamex más cercana y solicitar ayuda a un ejecutivo.                                
+Sí, en caso de necesitar nuevamente tus estados de cuenta impresos deberás acudir a tu sucursal Citibanamex más cercana y solicitar ayuda a un ejecutivo.
+¿En dónde puedo ver mi Estado de Cuenta Electrónico?
+                                    En tu correo electrónico registrado en Citibanamex será enviado tu Estado de Cuenta, en el cual podrás conocer la información de tu cuenta y el detalle de tus movimientos en cualquier lugar a través de tus dispositivos                                        móviles.                                                                    
+En tu correo electrónico registrado en Citibanamex será enviado tu Estado de Cuenta, en el cual podrás conocer la información de tu cuenta y el detalle de tus movimientos en cualquier lugar a través de tus dispositivos                                        móviles.                                    
+¿Cuántas veces puedo consultarlo?
+                                    Con tu Estado de Cuenta Electrónico tendrás acceso a tu información la cantidad de veces que necesites.                                
+Con tu Estado de Cuenta Electrónico tendrás acceso a tu información la cantidad de veces que necesites.
+¿Por qué ya no recibí mi Smart Statement?
+A partir de enero del 2022 tu Smart Statement cambiará por tu Estado de Cuenta Digital en PDF. Tiene la misma funcionalidad y lo recibirás en la misma dirrección. La contraseña para ingresar a él seguirá siendo la misma que utilizabas con tu Smart Statement.
+¿Deseas activar tu Estado de Cuenta Electrónico?De la Ciudad de México55 1226 2639Ir a Centro de Ayuda
+¿Deseas activar tu Estado de Cuenta Electrónico?
+De la Ciudad de México
+55 1226 2639
+Ir a Centro de Ayuda
+Además de protegerte, te apoyamos a cumplir tus objetivosSiéntete seguro, previniendo imprevistos con nuestros Seguros Citibanamex. Conoce las opciones que tenemos para ti como: seguro de auto, seguro de vida, seguro de hospitalización, seguro de casa, seguro de pyme, seguro de viaje, seguro de accidente protegido, seguro de bolso protegido y seguro de compras protegidas.Conoces nuestras Tarjetas de Crédito Citibanamex o cuentas de débito y elige la que mejor se adapte a tus necesidades. Además aprovecha las Preventas Citibanamex, nuestras promociones, los beneficios en viajes y nuestra banca digital para hacer tu vida más cómoda.Recibe apoyo financiero y cumple tus metas con nuestras opciones en crédito de nómina, crédito personal, crédito hipotecario y fondos de inversión.Si aun no eres cliente Citibanamex, cambia tu nómina y aprovecha grandes beneficios al realizar tu portabilidad de nómina.
+Además de protegerte, te apoyamos a cumplir tus objetivos
+Siéntete seguro, previniendo imprevistos con nuestros Seguros Citibanamex. Conoce las opciones que tenemos para ti como: seguro de auto, seguro de vida, seguro de hospitalización, seguro de casa, seguro de pyme, seguro de viaje, seguro de accidente protegido, seguro de bolso protegido y seguro de compras protegidas.
+Seguros
+seguro de auto
+seguro de vida
+seguro de hospitalización
+seguro de casa
+seguro de pyme
+seguro de viaje
+seguro de accidente protegido
+seguro de bolso protegido
+seguro de compras protegidas
+Conoces nuestras Tarjetas de Crédito Citibanamex o cuentas de débito y elige la que mejor se adapte a tus necesidades. Además aprovecha las Preventas Citibanamex, nuestras promociones, los beneficios en viajes y nuestra banca digital para hacer tu vida más cómoda.
+Tarjetas de Crédito
+cuentas de débito
+Preventas
+promociones
+beneficios en viajes
+banca digital
+Recibe apoyo financiero y cumple tus metas con nuestras opciones en crédito de nómina, crédito personal, crédito hipotecario y fondos de inversión.
+crédito de nómina
+crédito personal
+crédito hipotecario
+fondos de inversión
+Si aun no eres cliente Citibanamex, cambia tu nómina y aprovecha grandes beneficios al realizar tu portabilidad de nómina.
+portabilidad de nómina
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+      document.addEventListener('citi:generic-metrics-loaded',function(){        CitiUtils.getScript('/assets/js/library_metrics.js');        CitiUtils.getScript('js/metricas-cuenta.js');      });    
+var _cf = _cf || [];  _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]);  _cf.push(['_setAu', '/webcontent/7d85f1d5ui174ef640d1b884d8994e']); 
+_satellite["_runScript1"](function(event, target, Promise) {function inserAppMeasurement() {    return new Promise((resolve, reject) => {        let script = document.createElement('script');        script.type = 'text/javascript';        script.async = true;        script.onload = script.onreadystatechange = function() {            if (!script.readyState || /loaded|complete/.test(script.readyState)) {                script.onload = script.onreadystatechange = null; // Clean up                resolve(); // Resolve the promise when the script is loaded            }        };      script.src = '/recursos/js/mx_citi_s_code_v2.js';        script.onerror = function() {            reject(new Error('Failed to load Adobe Launch mx_csc_v2.js script'));        };        // Append the script to the head        document.head.appendChild(script);    });}// Usage exampleinserAppMeasurement()    .then(() => {          // This code will run after the Adobe Launch scripts are fully loaded and defined                  document.dispatchEvent(new CustomEvent("citi:s-var-loaded", {           cancelable: false,           bubbles: false,           }))                    console.log("AppMeasurement.js Loaded From Adobe Launch");    })    .catch((error) => {        console.error('Error:', error);    });});
+_satellite["_runScript2"](function(event, target, Promise) {/* Rule Id: 2067764*//*var nuevo = document.createElement('script');nuevo.setAttribute('type', 'text/javascript');nuevo.setAttribute('src', "//tags.bluekai.com/site/41856?ret=js&limit=1");document.getElementsByTagName('head')[0].appendChild(nuevo);var mboxjs = document.createElement('script');mboxjs.setAttribute('type', 'text/javascript');mboxjs.setAttribute('src', "/assets/js/mbox.js");document.getElementsByTagName('head')[0].appendChild(mboxjs);*/const wBtn = document.querySelectorAll('.hero-foto .dft-btn-1')[0];function watchBtn($el) {window.addEventListener('scroll', function(){const btnPos = $el.getBoundingClientRect();const submenu = document.querySelectorAll('.sectionM.menu-tarjetas')[0];if (btnPos.top < 0) {submenu.classList.add('onViewport');} else {      submenu.classList.remove('onViewport');}});}function insertMbox() {    return new Promise((resolve, reject) => {        let script = document.createElement('script');        script.type = 'text/javascript';        script.async = true;        script.onload = script.onreadystatechange = function() {            if (!script.readyState || /loaded|complete/.test(script.readyState)) {                script.onload = script.onreadystatechange = null; // Clean up                resolve(); // Resolve the promise when the script is loaded            }        };       if(location.hostname === "www.banamex.com"){        script.src = '//www.banamex.com/assets/js/mbox.js';       document.head.appendChild(script);       return;       }         else if(location.hostname === "portal.banamex.uat1.citibankonlineqa.com"|| location.hostname === "portal.banamex.com.mx"|| location.hostname === "www.mobileuat.banamex.com"|| location.hostname === "portaluat.banamex.com"|| location.hostname === "portal.banamex.sit1.nam.nsroot.net"|| location.hostname === "uat.bau.portalbanamex.citibankonlineqa.com"){        script.src = '//uat.bau.portalbanamex.citibankonlineqa.com/assets/js/mbox.js';       document.head.appendChild(script);        //alert("Uat Mbox Loaded");       return        }        script.onerror = function() {            reject(new Error('Failed to load Adobe Launch mbox.js script'));        };        // Append the script to the head        document.head.appendChild(script);    });}insertMbox()    .then(() => {        // This code will run after the Adobe Launch scripts are fully loaded and defined       console.log("mbox.js Loaded From Adobe Launch");    })    .catch((error) => {        console.error('Error:', error);    });});
+_satellite["_runScript3"](function(event, target, Promise) {/* Rule Id: 3788451 *//*var logo = document.querySelector('.citi-navbar-brand >li');if(!logo){ document.addEventListener("citi:initial-header-footer-loaded",function(){   logo = document.querySelector('.citi-navbar-brand >li');    logo.classList.add("cursor-default");   logo.classList.add("pointer-events-none"); console.log("HREF deleted");});}else{ logo.classList.add("cursor-default");   logo.classList.add("pointer-events-none");}*/var bancanet = document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]');if (!bancanet) {  document.addEventListener("citi:initial-header-footer-loaded", function() {    document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]').addEventListener('click', function() {      adobe.target.getOffer({        "mbox": "mbox-bn",        "params": {          "profile.user": "irbn"        },        "success": function(offer) {          adobe.target.applyOffer({            "mbox": "mbox-bn",            "offer": offer          });        },        "error": function(status, error) {          console.log('Error', status, error);        }      });    });  });} else {  document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]').addEventListener('click', function() {    adobe.target.getOffer({      "mbox": "mbox-bn",      "params": {        "profile.user": "irbn"      },      "success": function(offer) {        adobe.target.applyOffer({          "mbox": "mbox-bn",          "offer": offer        });      },      "error": function(status, error) {        console.log('Error', status, error);      }    });    console.log('mbox-bn');  });}// send mbox BancaNet Empresarialvar bancanetempresarial = document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]');if (!bancanetempresarial) {  document.addEventListener("citi:initial-header-footer-loaded", function() {    document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]').addEventListener('click', function() {      adobe.target.getOffer({        "mbox": "mbox-bne",        "params": {          "profile.user": "irbnempresarial"        },        "success": function(offer) {          adobe.target.applyOffer({            "mbox": "mbox-bne",            "offer": offer          });        },        "error": function(status, error) {          console.log('Error', status, error);        }      });    });  });} else {  document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]').addEventListener('click', function() {    adobe.target.getOffer({      "mbox": "mbox-bne",      "params": {        "profile.user": "irbnempresarial"      },      "success": function(offer) {        adobe.target.applyOffer({          "mbox": "mbox-bne",          "offer": offer        });      },      "error": function(status, error) {        console.log('Error', status, error);      }    });    console.log('mbox-bne');  });}});
+_satellite["_runScript4"](function(event, target, Promise) {/* Rule Id: 3844915 *///Global tagvar js_script = document.createElement('script');js_script.type = "text/javascript";js_script.src = "https://www.googletagmanager.com/gtag/js?id=AW-613242379";js_script.async = true;document.getElementsByTagName('head')[0].appendChild(js_script);window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-613242379');/*//Page viewgtag('event', 'conversion', {'send_to': 'AW-613242379/p2EGCIv0k9ACEIustaQC'});*/});
+_satellite["_runScript5"](function(event, target, Promise) {/* Rule Id: 3303512 *///Mirumnew Image().src = 'https://www.facebook.com/tr?id=963037387106002&ev=PageView&noscript=1';new Image().src = 'https://www.facebook.com/tr?id=963037387106002&ev=ViewContent&cd[categoria]=Servicios&cd[producto]=EstadoCuenta&noscript=1';});

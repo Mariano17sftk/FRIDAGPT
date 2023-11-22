@@ -1,0 +1,152 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaConoce CitibanamexQuiénes somosInformación FinancieraCompromiso SocialEventosPremio Banamex a la MicroempresaPremio Banamex deEducación FinancieraTeletónPremio EconomíaPremio Banamex a la MicroempresaSurgió en 2005 con el fin de promover las microfinanzas como una herramienta para el desarrollo económico de los grupos menos favorecidos y es organizado por Banamex a través de Educación Financiera Banamex y de ProDesarrollo, Finanzas y Microempresa, A.C.¿Cuál es su objetivo?Reconocer las exitosas trayectorias y experiencias ejemplares de microempresarios; así como a las Instituciones financieras orientadas al micro financiamiento.¿A quiénes nos dirigimos?A empresarios de microempresas mayores de 18 años que:Actualmente tengan un crédito enfocado a su negocio.Utilicen el crédito recibido únicamente para el negocio.Cuenten con un historial positivo en las Sociedades de Información Crediticia.Sean dueños del negocio para el cual se pidió el crédito.Tengan máximo 10 colaboradores permanentes remunerados.Cuenten con más de 18 meses dedicándose a la misma actividad.No generen más de 4 millones de ventas al año.Saber Cuenta Banamex@SaberCuentaEl Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+            Eventos - Premio Micro Empresa - Citibanamex.com                    var gomez = {            gs: new Date().getTime(),            acctId: '0521CB',            pgId: '',            grpId: ''        };                                                            div#cboxLoadedContent {            height: auto !important;            border-bottom: none;        }                #cboxTopLeft {            background: url(/recursos/images/colorbox/controls.png) no-repeat -100px 0;        }                #cboxTopCenter {            background: url(/recursos/images/colorbox/border.png) 0 0 repeat-x;        }                #cboxTopRight {            background: url(/recursos/images/colorbox/controls.png) no-repeat -124px 0;        }                #cboxMiddleRight {            background: url(/recursos/images/colorbox/controls.png) right top repeat-y;        }                #cboxBottomRight {            background: url(/recursos/images/colorbox/controls.png) no-repeat -124px -25px;        }                #cboxBottomCenter {            background: url(/recursos/images/colorbox/border.png) 0 -25px repeat-x;        }                #cboxBottomLeft {            background: url(/recursos/images/colorbox/controls.png) no-repeat -100px -25px;        }                #cboxMiddleLeft {            background: url(/recursos/images/colorbox/controls.png) left top repeat-y;        }            body {        overflow-x: visible !important;    }        #menu_holder,    #menu_holder .cont_menu2 {        z-index: 0 !important;    }
+Eventos - Premio Micro Empresa - Citibanamex.com
+        var gomez = {            gs: new Date().getTime(),            acctId: '0521CB',            pgId: '',            grpId: ''        };    
+        div#cboxLoadedContent {            height: auto !important;            border-bottom: none;        }                #cboxTopLeft {            background: url(/recursos/images/colorbox/controls.png) no-repeat -100px 0;        }                #cboxTopCenter {            background: url(/recursos/images/colorbox/border.png) 0 0 repeat-x;        }                #cboxTopRight {            background: url(/recursos/images/colorbox/controls.png) no-repeat -124px 0;        }                #cboxMiddleRight {            background: url(/recursos/images/colorbox/controls.png) right top repeat-y;        }                #cboxBottomRight {            background: url(/recursos/images/colorbox/controls.png) no-repeat -124px -25px;        }                #cboxBottomCenter {            background: url(/recursos/images/colorbox/border.png) 0 -25px repeat-x;        }                #cboxBottomLeft {            background: url(/recursos/images/colorbox/controls.png) no-repeat -100px -25px;        }                #cboxMiddleLeft {            background: url(/recursos/images/colorbox/controls.png) left top repeat-y;        }    
+    body {        overflow-x: visible !important;    }        #menu_holder,    #menu_holder .cont_menu2 {        z-index: 0 !important;    }
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Conoce CitibanamexQuiénes somosInformación FinancieraCompromiso SocialEventosPremio Banamex a la MicroempresaPremio Banamex deEducación FinancieraTeletónPremio EconomíaPremio Banamex a la MicroempresaSurgió en 2005 con el fin de promover las microfinanzas como una herramienta para el desarrollo económico de los grupos menos favorecidos y es organizado por Banamex a través de Educación Financiera Banamex y de ProDesarrollo, Finanzas y Microempresa, A.C.¿Cuál es su objetivo?Reconocer las exitosas trayectorias y experiencias ejemplares de microempresarios; así como a las Instituciones financieras orientadas al micro financiamiento.¿A quiénes nos dirigimos?A empresarios de microempresas mayores de 18 años que:Actualmente tengan un crédito enfocado a su negocio.Utilicen el crédito recibido únicamente para el negocio.Cuenten con un historial positivo en las Sociedades de Información Crediticia.Sean dueños del negocio para el cual se pidió el crédito.Tengan máximo 10 colaboradores permanentes remunerados.Cuenten con más de 18 meses dedicándose a la misma actividad.No generen más de 4 millones de ventas al año.Saber Cuenta Banamex@SaberCuenta
+Conoce CitibanamexQuiénes somosInformación FinancieraCompromiso SocialEventos
+Conoce Citibanamex
+Quiénes somosInformación FinancieraCompromiso SocialEventos
+Quiénes somos
+Información Financiera
+                                            Información Financiera                                                                                                                                                                                                        Grupo Financiero Citibanamex                                                                                                                                                                                                                                                                                                                                                        Banco Consolidado                                                                                                                                                                                                                                                                                                                                                        Tarjetas Banamex                                                                                                                                                                                                                                                                                                                                                        Operadora e Impulsora de Negocios                                                                                                                                                                                                                                                                                                                                                        Arrendadora Banamex                                                                                                                                                                                                                                                                                                                                                        Acción Banamex                                                                                                                                                                                                                                                                                                                                                        Casa de Bolsa                                                                                                                                                                                                                                                                                                                                                                                                    Seguros Banamex                                                                                                                                                                                                                                    
+                                                                                                                                                            Grupo Financiero Citibanamex                                                                                                                                                
+                                                                                                            Grupo Financiero Citibanamex                                                                                                    
+                                                        Grupo Financiero Citibanamex                                                    
+Grupo Financiero Citibanamex
+                                                                                                                                                            Banco Consolidado                                                                                                                                                
+                                                                                                            Banco Consolidado                                                                                                    
+                                                        Banco Consolidado                                                    
+Banco Consolidado
+                                                                                                                                                            Tarjetas Banamex                                                                                                                                                
+                                                                                                            Tarjetas Banamex                                                                                                    
+                                                        Tarjetas Banamex                                                    
+Tarjetas Banamex
+                                                                                                                                                            Operadora e Impulsora de Negocios                                                                                                                                                
+                                                                                                            Operadora e Impulsora de Negocios                                                                                                    
+                                                        Operadora e Impulsora de Negocios                                                    
+Operadora e Impulsora de Negocios
+                                                                                                                                                            Arrendadora Banamex                                                                                                                                                
+                                                                                                            Arrendadora Banamex                                                                                                    
+                                                        Arrendadora Banamex                                                    
+Arrendadora Banamex
+                                                                                                                                                            Acción Banamex                                                                                                                                                
+                                                                                                            Acción Banamex                                                                                                    
+                                                        Acción Banamex                                                    
+Acción Banamex
+                                                                                                                                                            Casa de Bolsa                                                                                                                                                
+                                                                                                            Casa de Bolsa                                                                                                    
+                                                        Casa de Bolsa                                                    
+Casa de Bolsa
+                                                                                                                                                            Seguros Banamex                                                                                                                                                
+                                                                                                            Seguros Banamex                                                                                                    
+                                                        Seguros Banamex                                                    
+Seguros Banamex
+Compromiso Social
+Eventos
+Premio Banamex a la MicroempresaPremio Banamex deEducación FinancieraTeletónPremio EconomíaPremio Banamex a la MicroempresaSurgió en 2005 con el fin de promover las microfinanzas como una herramienta para el desarrollo económico de los grupos menos favorecidos y es organizado por Banamex a través de Educación Financiera Banamex y de ProDesarrollo, Finanzas y Microempresa, A.C.¿Cuál es su objetivo?Reconocer las exitosas trayectorias y experiencias ejemplares de microempresarios; así como a las Instituciones financieras orientadas al micro financiamiento.¿A quiénes nos dirigimos?A empresarios de microempresas mayores de 18 años que:Actualmente tengan un crédito enfocado a su negocio.Utilicen el crédito recibido únicamente para el negocio.Cuenten con un historial positivo en las Sociedades de Información Crediticia.Sean dueños del negocio para el cual se pidió el crédito.Tengan máximo 10 colaboradores permanentes remunerados.Cuenten con más de 18 meses dedicándose a la misma actividad.No generen más de 4 millones de ventas al año.Saber Cuenta Banamex@SaberCuenta
+Premio Banamex a la MicroempresaPremio Banamex deEducación FinancieraTeletónPremio Economía
+Premio Banamex a la Microempresa
+Premio Banamex deEducación Financiera
+Teletón
+Premio Economía
+Premio Banamex a la MicroempresaSurgió en 2005 con el fin de promover las microfinanzas como una herramienta para el desarrollo económico de los grupos menos favorecidos y es organizado por Banamex a través de Educación Financiera Banamex y de ProDesarrollo, Finanzas y Microempresa, A.C.¿Cuál es su objetivo?Reconocer las exitosas trayectorias y experiencias ejemplares de microempresarios; así como a las Instituciones financieras orientadas al micro financiamiento.¿A quiénes nos dirigimos?A empresarios de microempresas mayores de 18 años que:Actualmente tengan un crédito enfocado a su negocio.Utilicen el crédito recibido únicamente para el negocio.Cuenten con un historial positivo en las Sociedades de Información Crediticia.Sean dueños del negocio para el cual se pidió el crédito.Tengan máximo 10 colaboradores permanentes remunerados.Cuenten con más de 18 meses dedicándose a la misma actividad.No generen más de 4 millones de ventas al año.Saber Cuenta Banamex@SaberCuenta
+Surgió en 2005 con el fin de promover las microfinanzas como una herramienta para el desarrollo económico de los grupos menos favorecidos y es organizado por Banamex a través de Educación Financiera Banamex y de ProDesarrollo, Finanzas y Microempresa, A.C.
+Banamex
+Educación Financiera Banamex
+ProDesarrollo, Finanzas y Microempresa, A.C.
+¿Cuál es su objetivo?
+Reconocer las exitosas trayectorias y experiencias ejemplares de microempresarios; así como a las Instituciones financieras orientadas al micro financiamiento.
+¿A quiénes nos dirigimos?A empresarios de microempresas mayores de 18 años que:
+¿A quiénes nos dirigimos?
+Actualmente tengan un crédito enfocado a su negocio.Utilicen el crédito recibido únicamente para el negocio.Cuenten con un historial positivo en las Sociedades de Información Crediticia.Sean dueños del negocio para el cual se pidió el crédito.Tengan máximo 10 colaboradores permanentes remunerados.Cuenten con más de 18 meses dedicándose a la misma actividad.No generen más de 4 millones de ventas al año.
+Actualmente tengan un crédito enfocado a su negocio.
+Utilicen el crédito recibido únicamente para el negocio.
+Cuenten con un historial positivo en las Sociedades de Información Crediticia.
+Sean dueños del negocio para el cual se pidió el crédito.
+Tengan máximo 10 colaboradores permanentes remunerados.
+Cuenten con más de 18 meses dedicándose a la misma actividad.
+No generen más de 4 millones de ventas al año.
+Saber Cuenta Banamex
+@SaberCuenta
+        .components {            min-height: 100px;            float: left;        }                .colIzquierda {            height: auto;            max-width: 200px;            min-width: 50px;            width: 190px;        }                .colCentral {            height: auto;            width: 690px;            min-width: 400px;            margin: 40px 0;        }                .colDerecha {            height: auto;            max-width: 200px;            min-width: 50px;            width: 190px;            float: right;            margin-top: 190px;            margin-top: 190px\0/;        }                .top-destacado-conoce {            height: 180px        }                #color_back {            width: 100%;            height: 230px;            position: absolute;            z-index: -1;            background-color: #5cc5fe;            padding: 0;            margin: 0        }                #cont_info {            width: 960px;            height: 230px;            margin: 0 auto;            z-index: 3;        }                #cont_info h1 {            margin: 50px 0 0 50px;            width: 100%;            font-size: 32px;            color: #FFFFFF;            float: left;        }                #cont_info h2 {            margin: 15px 0 0 50px;            width: 500px;            font-size: 22px;            color: #FFFFFF;            float: left;        }                #cont_info p {            margin: 15px 0 0 50px;            width: 500px;            font-size: 22px;            color: #FFFFFF;            float: left;        }                #cont_gral {            width: 100%;            height: auto;            overflow: hidden;            padding: 0;            margin: 0;            position: relative;        }                #cont_img {            position: absolute;            left: 100%;            margin-top: 0px;            margin-left: -960px;            width: 1920px;            height: 400px;            max-width: 960px;            z-index: -1;        }    
+×
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+        $(document).ready(function() {            var langAux = "";            if (Get_Cookie("language") == 'en') {                load_html_callback_2({                    elemento: '#topEncabezado',                    url: '/recursos/piezas/en/header.htm',                    realizar: function() {                        ejecutarScript('topEncabezado')                    }                });                load_html_callback_2({                    elemento: '#MenuCompleto',                    url: '/recursos/piezas/en/MenuCompleto.htm',                    realizar: function() {                        ejecutarScript('MenuCompleto')                    }                });                load_html_callback_2({                    elemento: '#Footer',                    url: '/recursos/piezas/en/Footer.htm',                    realizar: function() {                        ejecutarScript('Footer')                    }                });                load_html_callback_2({                    elemento: '#tuBanco',                    url: '/recursos/piezas/en/tu_banco.htm',                    realizar: function() {                        ejecutarScript('tuBanco')                    }                });            } else {                load_html_callback_2({                    elemento: '#topEncabezado',                    url: '/recursos/piezas/header.htm',                    realizar: function() {                        ejecutarScript('topEncabezado')                    }                });                load_html_callback_2({                    elemento: '#MenuCompleto',                    url: '/recursos/piezas/MenuCompleto.htm',                    realizar: function() {                        ejecutarScript('MenuCompleto')                    }                });                load_html_callback_2({                    elemento: '#Footer',                    url: '/recursos/piezas/Footer.htm',                    realizar: function() {                        ejecutarScript('Footer')                    }                });                load_html_callback_2({                    elemento: '#tuBanco',                    url: '/recursos/piezas/tu_banco.htm',                    realizar: function() {                        ejecutarScript('tuBanco')                    }                });            }            selectedItem("#1");            $('#menu_conoce li a').eq().addClass('selected')        });    
+        $("#select_2").trigger('click');    
+        <!-- /* Copyright 1997-2010 Omniture, Inc. */        s.pageName = "";        s.channel = "";        s.prop1 = "";        s.prop2 = "";        s.prop3 = "";        s.prop4 = "";        s.hier1 = "";        s.prop5 = "";        s.prop22 = "";        switch (Get_Cookie("language")) {            case 'es':                s.prop10 = "ES";                break;            case 'en':                s.prop10 = "EN";                break;        }        /************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/        var s_code = s.t();        if (s_code) document.write(s_code) //-->    

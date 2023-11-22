@@ -1,0 +1,138 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaAviso de privacidadCitibanamex TarjetasInstituto BanamexCandidatos ColaboradoresAviso de Privacidad TransferTérminos y CondicionesRobo de identidadRedes SocialesBuró de Entidades FinancierasBuró de Entidades Financieras¿Qué es el Buró de Entidades Financieras?Es una herramienta de consulta y difusión con la que podrás conocer los productos que ofrecen las entidades financieras, sus comisiones y tasas, las reclamaciones de los usuarios, las prácticas no sanas en que incurren, las sanciones administrativas que les han impuesto, las cláusulas abusivas de sus contratos y otra información que resulte relevante para informarte sobre su desempeño.Con el Buró de Entidades Financieras, se logrará saber quién es quién en bancos, seguros, sociedades financieras de objeto múltiple, cajas de ahorro, afores, entre otras entidades.Con ello, podrás comparar y evaluar a las entidades financieras, sus productos y servicios y tendrás mayores elementos para elegir lo que más te convenga.Esta información te será útil para elegir un producto financiero y también para conocer y usar mejor los que ya tienes.El Buró de Entidades Financieras, es una herramienta que puede contribuir al crecimiento económico del país, al promover la competencia entre las instituciones financieras; que impulsará la transparencia al revelar información a los usuarios sobre el desempeño de éstas y los productos que ofrecen y que va a facilitar un manejo responsable de los productos y servicios financieros al conocer a detalle sus características.Lo anterior, podrá derivar en un mayor bienestar social, porque al conjuntar en un solo espacio tan diversa información del sistema financiero, el usuario tendrá más elementos para optimizar su presupuesto, para mejorar sus finanzas personales, para utilizar correctamente los créditos que fortalecerán su economía y obtener los seguros que la protejan, entre otros aspectos.Información de CitibanamexPodrás consultar la información que consta de Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/general_gob.php?id_sector=40&id_periodo=38#Citibanamex Casa de BolsaPodrás consultar la información que consta de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, Integrante del Grupo Financiero Citibanamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.banamex.com/resources/pdf/es/buro-entidades-casa-de-bolsa.pdfEl Buró de Entidades Financieras contiene información de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, integrante del Grupo Financiero Citibanamex sobre las características de nuestros productos y nuestro desempeño frente a los Usuarios en la prestación de servicios.Información de las SOFOMES entidades reguladas integrantes del Grupo Financiero Banamex:Tarjetas Banamex.Podrás consultar la información que consta de Tarjetas Banamex S.A. de C.V. SOFOM E.R. en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/tbl_productos.php?id_producto=1&id_periodo=38&id_sector=40Consulta la información que consta de Tarjetas Banamex S.A. de C.V. Sofom., E.R. & Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras: https://www.banamex.com/resources/pdf/es/buro-entidades-financieras.pdfInformación del sectorPara conocer la información de todo el sector, podrás acceder al sitio del Buró de Entidades Financieras que se encuentra en la siguiente liga: https://www.buro.gob.mx.La información del Buró de Entidades Financieras es una herramienta para mejorar tu futuro.¡Úsala a tu favor!El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.Subir
+                Buró de Entidades Financieras | Citibanamex                                                                                          .grey_active{ background: #ebf4f8; } /* rgba(245, 247, 252, 0.6) */      ::-webkit-scrollbar{ width: 0px; }      ::-webkit-scrollbar-track{ background: transparent; }      ::-webkit-scrollbar-thumb{ background: transparent; }      .info_two_hsc{        scrollbar-base-color: #f5f7fc;        scrollbar-face-color: #f5f7fc;        scrollbar-3dlight-color: #f5f7fc;        scrollbar-highlight-color: #f5f7fc;        scrollbar-track-color: #f5f7fc;        scrollbar-arrow-color: #f5f7fc;        scrollbar-shadow-color: #f5f7fc;        scrollbar-dark-shadow-color: #f5f7fc;      }      .outl{ outline: none!important; }      .citi-actionbutton.fc:focus:before ,.citi-actionbutton.fc:focus{        color: #056dae !important;      }      bazadebezolkohpepadr="411065205"if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+Buró de Entidades Financieras | Citibanamex
+      .grey_active{ background: #ebf4f8; } /* rgba(245, 247, 252, 0.6) */      ::-webkit-scrollbar{ width: 0px; }      ::-webkit-scrollbar-track{ background: transparent; }      ::-webkit-scrollbar-thumb{ background: transparent; }      .info_two_hsc{        scrollbar-base-color: #f5f7fc;        scrollbar-face-color: #f5f7fc;        scrollbar-3dlight-color: #f5f7fc;        scrollbar-highlight-color: #f5f7fc;        scrollbar-track-color: #f5f7fc;        scrollbar-arrow-color: #f5f7fc;        scrollbar-shadow-color: #f5f7fc;        scrollbar-dark-shadow-color: #f5f7fc;      }      .outl{ outline: none!important; }      .citi-actionbutton.fc:focus:before ,.citi-actionbutton.fc:focus{        color: #056dae !important;      }    
+bazadebezolkohpepadr="411065205"
+if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+                                                                                                                Continuar                                                                                                                                                                                                      
+                                                                                                          Continuar                                                                                                                                                                                            
+                                                                                                  Continuar                                                                                                            
+                                                                                        Continuar                                                                                                    
+              Continuar                                                                                          
+                                                                
+                                                                  
+                                                
+Aviso de privacidadCitibanamex TarjetasInstituto BanamexCandidatos ColaboradoresAviso de Privacidad TransferTérminos y CondicionesRobo de identidadRedes SocialesBuró de Entidades FinancierasBuró de Entidades Financieras¿Qué es el Buró de Entidades Financieras?Es una herramienta de consulta y difusión con la que podrás conocer los productos que ofrecen las entidades financieras, sus comisiones y tasas, las reclamaciones de los usuarios, las prácticas no sanas en que incurren, las sanciones administrativas que les han impuesto, las cláusulas abusivas de sus contratos y otra información que resulte relevante para informarte sobre su desempeño.Con el Buró de Entidades Financieras, se logrará saber quién es quién en bancos, seguros, sociedades financieras de objeto múltiple, cajas de ahorro, afores, entre otras entidades.Con ello, podrás comparar y evaluar a las entidades financieras, sus productos y servicios y tendrás mayores elementos para elegir lo que más te convenga.Esta información te será útil para elegir un producto financiero y también para conocer y usar mejor los que ya tienes.El Buró de Entidades Financieras, es una herramienta que puede contribuir al crecimiento económico del país, al promover la competencia entre las instituciones financieras; que impulsará la transparencia al revelar información a los usuarios sobre el desempeño de éstas y los productos que ofrecen y que va a facilitar un manejo responsable de los productos y servicios financieros al conocer a detalle sus características.Lo anterior, podrá derivar en un mayor bienestar social, porque al conjuntar en un solo espacio tan diversa información del sistema financiero, el usuario tendrá más elementos para optimizar su presupuesto, para mejorar sus finanzas personales, para utilizar correctamente los créditos que fortalecerán su economía y obtener los seguros que la protejan, entre otros aspectos.Información de CitibanamexPodrás consultar la información que consta de Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/general_gob.php?id_sector=40&id_periodo=38#Citibanamex Casa de BolsaPodrás consultar la información que consta de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, Integrante del Grupo Financiero Citibanamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.banamex.com/resources/pdf/es/buro-entidades-casa-de-bolsa.pdfEl Buró de Entidades Financieras contiene información de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, integrante del Grupo Financiero Citibanamex sobre las características de nuestros productos y nuestro desempeño frente a los Usuarios en la prestación de servicios.Información de las SOFOMES entidades reguladas integrantes del Grupo Financiero Banamex:Tarjetas Banamex.Podrás consultar la información que consta de Tarjetas Banamex S.A. de C.V. SOFOM E.R. en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/tbl_productos.php?id_producto=1&id_periodo=38&id_sector=40Consulta la información que consta de Tarjetas Banamex S.A. de C.V. Sofom., E.R. & Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras: https://www.banamex.com/resources/pdf/es/buro-entidades-financieras.pdfInformación del sectorPara conocer la información de todo el sector, podrás acceder al sitio del Buró de Entidades Financieras que se encuentra en la siguiente liga: https://www.buro.gob.mx.La información del Buró de Entidades Financieras es una herramienta para mejorar tu futuro.¡Úsala a tu favor!
+Aviso de privacidadCitibanamex TarjetasInstituto BanamexCandidatos ColaboradoresAviso de Privacidad TransferTérminos y CondicionesRobo de identidadRedes SocialesBuró de Entidades Financieras
+                                    Buró de entidades financieras                                                                                                                  
+                          Buró de entidades financieras                      
+              Buró de entidades financieras            
+                                                                          
+Aviso de privacidadCitibanamex TarjetasInstituto BanamexCandidatos ColaboradoresAviso de Privacidad Transfer
+Aviso de privacidad
+Citibanamex TarjetasInstituto BanamexCandidatos ColaboradoresAviso de Privacidad Transfer
+Citibanamex Tarjetas
+Instituto Banamex
+Candidatos Colaboradores
+Aviso de Privacidad Transfer
+Términos y Condiciones
+Robo de identidad
+Redes Sociales
+Buró de Entidades Financieras
+Buró de Entidades Financieras¿Qué es el Buró de Entidades Financieras?Es una herramienta de consulta y difusión con la que podrás conocer los productos que ofrecen las entidades financieras, sus comisiones y tasas, las reclamaciones de los usuarios, las prácticas no sanas en que incurren, las sanciones administrativas que les han impuesto, las cláusulas abusivas de sus contratos y otra información que resulte relevante para informarte sobre su desempeño.Con el Buró de Entidades Financieras, se logrará saber quién es quién en bancos, seguros, sociedades financieras de objeto múltiple, cajas de ahorro, afores, entre otras entidades.Con ello, podrás comparar y evaluar a las entidades financieras, sus productos y servicios y tendrás mayores elementos para elegir lo que más te convenga.Esta información te será útil para elegir un producto financiero y también para conocer y usar mejor los que ya tienes.El Buró de Entidades Financieras, es una herramienta que puede contribuir al crecimiento económico del país, al promover la competencia entre las instituciones financieras; que impulsará la transparencia al revelar información a los usuarios sobre el desempeño de éstas y los productos que ofrecen y que va a facilitar un manejo responsable de los productos y servicios financieros al conocer a detalle sus características.Lo anterior, podrá derivar en un mayor bienestar social, porque al conjuntar en un solo espacio tan diversa información del sistema financiero, el usuario tendrá más elementos para optimizar su presupuesto, para mejorar sus finanzas personales, para utilizar correctamente los créditos que fortalecerán su economía y obtener los seguros que la protejan, entre otros aspectos.Información de CitibanamexPodrás consultar la información que consta de Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/general_gob.php?id_sector=40&id_periodo=38#Citibanamex Casa de BolsaPodrás consultar la información que consta de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, Integrante del Grupo Financiero Citibanamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.banamex.com/resources/pdf/es/buro-entidades-casa-de-bolsa.pdfEl Buró de Entidades Financieras contiene información de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, integrante del Grupo Financiero Citibanamex sobre las características de nuestros productos y nuestro desempeño frente a los Usuarios en la prestación de servicios.Información de las SOFOMES entidades reguladas integrantes del Grupo Financiero Banamex:Tarjetas Banamex.Podrás consultar la información que consta de Tarjetas Banamex S.A. de C.V. SOFOM E.R. en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/tbl_productos.php?id_producto=1&id_periodo=38&id_sector=40Consulta la información que consta de Tarjetas Banamex S.A. de C.V. Sofom., E.R. & Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras: https://www.banamex.com/resources/pdf/es/buro-entidades-financieras.pdfInformación del sectorPara conocer la información de todo el sector, podrás acceder al sitio del Buró de Entidades Financieras que se encuentra en la siguiente liga: https://www.buro.gob.mx.La información del Buró de Entidades Financieras es una herramienta para mejorar tu futuro.¡Úsala a tu favor!
+¿Qué es el Buró de Entidades Financieras?
+Es una herramienta de consulta y difusión con la que podrás conocer los productos que ofrecen las entidades financieras, sus comisiones y tasas, las reclamaciones de los usuarios, las prácticas no sanas en que incurren, las sanciones administrativas que les han impuesto, las cláusulas abusivas de sus contratos y otra información que resulte relevante para informarte sobre su desempeño.
+Con el Buró de Entidades Financieras, se logrará saber quién es quién en bancos, seguros, sociedades financieras de objeto múltiple, cajas de ahorro, afores, entre otras entidades.
+Con ello, podrás comparar y evaluar a las entidades financieras, sus productos y servicios y tendrás mayores elementos para elegir lo que más te convenga.
+Esta información te será útil para elegir un producto financiero y también para conocer y usar mejor los que ya tienes.
+El Buró de Entidades Financieras, es una herramienta que puede contribuir al crecimiento económico del país, al promover la competencia entre las instituciones financieras; que impulsará la transparencia al revelar información a los usuarios sobre el desempeño de éstas y los productos que ofrecen y que va a facilitar un manejo responsable de los productos y servicios financieros al conocer a detalle sus características.
+Lo anterior, podrá derivar en un mayor bienestar social, porque al conjuntar en un solo espacio tan diversa información del sistema financiero, el usuario tendrá más elementos para optimizar su presupuesto, para mejorar sus finanzas personales, para utilizar correctamente los créditos que fortalecerán su economía y obtener los seguros que la protejan, entre otros aspectos.
+Información de Citibanamex
+Podrás consultar la información que consta de Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/general_gob.php?id_sector=40&id_periodo=38#
+https://www.buro.gob.mx/general_gob.php?id_sector=40&id_periodo=38#
+Citibanamex Casa de Bolsa
+Podrás consultar la información que consta de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, Integrante del Grupo Financiero Citibanamex en el Buró de Entidades Financieras a través de la siguiente liga: https://www.banamex.com/resources/pdf/es/buro-entidades-casa-de-bolsa.pdf
+https://www.banamex.com/resources/pdf/es/buro-entidades-casa-de-bolsa.pdf
+El Buró de Entidades Financieras contiene información de Citibanamex Casa de Bolsa, S.A. de C.V., Casa de Bolsa, integrante del Grupo Financiero Citibanamex sobre las características de nuestros productos y nuestro desempeño frente a los Usuarios en la prestación de servicios.
+Información de las SOFOMES entidades reguladas integrantes del Grupo Financiero Banamex:
+Tarjetas Banamex.
+Podrás consultar la información que consta de Tarjetas Banamex S.A. de C.V. SOFOM E.R. en el Buró de Entidades Financieras a través de la siguiente liga: https://www.buro.gob.mx/tbl_productos.php?id_producto=1&id_periodo=38&id_sector=40
+https://www.buro.gob.mx/tbl_productos.php?id_producto=1&id_periodo=38&id_sector=40
+Consulta la información que consta de Tarjetas Banamex S.A. de C.V. Sofom., E.R. & Banco Nacional de México, S.A., Integrante del Grupo Financiero Banamex en el Buró de Entidades Financieras: https://www.banamex.com/resources/pdf/es/buro-entidades-financieras.pdf
+https://www.banamex.com/resources/pdf/es/buro-entidades-financieras.pdf
+Información del sector
+Para conocer la información de todo el sector, podrás acceder al sitio del Buró de Entidades Financieras que se encuentra en la siguiente liga: https://www.buro.gob.mx.
+https://www.buro.gob.mx
+La información del Buró de Entidades Financieras es una herramienta para mejorar tu futuro.
+¡Úsala a tu favor!
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+Subir
+$('[data-target]').on('click',function(){        window.open($(this).attr("data-target"), '_blank')        var type, namePDF;        namePDF = $(this).attr("data-target").split('/').length        namePDF = $(this).attr("data-target").split('/')[namePDF-1].replace('.pdf','')        Biblioteca.isMobile ? (type = 'Mobile') : (type = 'Desktop');        s.linkTrackVars = 'eVar27,prop36,prop10,events';        s.linkTrackEvents = 'event27';        s.eVar27 = s.pageName + "|" + namePDF+ "|DescargaArchivo";        s.events = 'event27';        s.prop36 = type;        s.prop10 = "ES";        s.tl(this, 'd', "https://"+window.location.href.split("/")[2] + $(this).attr("data-target"));        })     
+<img src="https://portal.banamex.uat1.citibankonlineqa.com/akam/11/pixel_18805b4b?a=dD00YmNhMzU4ZmQ2YTA5MmUwNjU5OTY1ZmU1Y2JhNTE1NDhlNWZiMGZlJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" />

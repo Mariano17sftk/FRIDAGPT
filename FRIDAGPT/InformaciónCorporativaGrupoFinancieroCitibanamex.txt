@@ -1,0 +1,277 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaInformación FinancieraConoce nuestros reportes e informes financierosGrupo Financiero CitibanamexInformación corporativaInformación financieraConciliaciónBanco ConsolidadoInformación corporativaInformación financieraConciliaciónInformes BMVTarjetas BanamexInformación corporativaInformación financieraOperadora e Impulsora de NegociosInformación corporativaInformación financieraArrendadora BanamexInformación corporativaInformación financieraAcción BanamexInformación corporativaInformación financieraGrupo Financiero CitibanamexInformación CorporativaGrupo Financiero CitibanamexDescargar PDFEstatutos SocialesConvenio Único de ResponsabilidadesConsejo de AdministraciónMiembros del Consejo de AdministraciónEstructura corporativaDescargar PDFEstructura CorporativaComitésDescargar PDFComité de Prácticas SocietariasComité de AuditoríaAcuerdos de AsambleaDescargar PDF202328 de abril16 de mayo21 de julio202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre202030 de abril201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre20145 de marzo30 de abril30 de junio11 de agosto29 de octubre201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre201027 de enero30 de abril16 de diciembre200930 de abril30 de junio30 de septiembre200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembreLa información financiera del Grupo Financiero Banamex, S.A. de C.V. y de Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex, se pone a disposición del público a través de su página electrónica en la red mundial denominada internet (www.banamex.com/esp/grupo/inf_financiera.html), en cumplimiento con lo dispuesto en las diversas disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en materia de revelación de informaciónEl Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+                Información Corporativa Grupo Financiero | Citibanamex                                                                                                        .citi-collapse-trigger.is-expanded.bg-ajt,        .citi-collapse-trigger.is-expanded .bg-ajt,        .citi-collapse-trigger.is-expanded.bg-ajt,        .citi-collapse-trigger.is-expanded .bg-ajt {            background: #056dae !important;        }        .citi-collapse-trigger.is-expanded span.variant-dark {            color: #fff !important;        }        .grey_active {            background: #ebf4f8;        }        /* rgba(245, 247, 252, 0.6) */        ::-webkit-scrollbar {            width: 0px;        }        ::-webkit-scrollbar-track {            background: transparent;        }        ::-webkit-scrollbar-thumb {            background: transparent;        }        .info_two_hsc {            scrollbar-base-color: #f5f7fc;            scrollbar-face-color: #f5f7fc;            scrollbar-3dlight-color: #f5f7fc;            scrollbar-highlight-color: #f5f7fc;            scrollbar-track-color: #f5f7fc;            scrollbar-arrow-color: #f5f7fc;            scrollbar-shadow-color: #f5f7fc;            scrollbar-dark-shadow-color: #f5f7fc;        }        .outl {            outline: none !important;        }        .citi-actionbutton.fc:focus:before,        .citi-actionbutton.fc:focus {            color: #056dae !important;        }    if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+Información Corporativa Grupo Financiero | Citibanamex
+        .citi-collapse-trigger.is-expanded.bg-ajt,        .citi-collapse-trigger.is-expanded .bg-ajt,        .citi-collapse-trigger.is-expanded.bg-ajt,        .citi-collapse-trigger.is-expanded .bg-ajt {            background: #056dae !important;        }        .citi-collapse-trigger.is-expanded span.variant-dark {            color: #fff !important;        }        .grey_active {            background: #ebf4f8;        }        /* rgba(245, 247, 252, 0.6) */        ::-webkit-scrollbar {            width: 0px;        }        ::-webkit-scrollbar-track {            background: transparent;        }        ::-webkit-scrollbar-thumb {            background: transparent;        }        .info_two_hsc {            scrollbar-base-color: #f5f7fc;            scrollbar-face-color: #f5f7fc;            scrollbar-3dlight-color: #f5f7fc;            scrollbar-highlight-color: #f5f7fc;            scrollbar-track-color: #f5f7fc;            scrollbar-arrow-color: #f5f7fc;            scrollbar-shadow-color: #f5f7fc;            scrollbar-dark-shadow-color: #f5f7fc;        }        .outl {            outline: none !important;        }        .citi-actionbutton.fc:focus:before,        .citi-actionbutton.fc:focus {            color: #056dae !important;        }    
+if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Información FinancieraConoce nuestros reportes e informes financieros
+Información Financiera
+Conoce nuestros reportes e informes financieros
+                                                                                                                                                                                        Continuar                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                Continuar                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                    Continuar                                                                                                                                                                                        
+                                                                                                                                                    Continuar                                                                                                                                                                            
+                        Continuar                                                                                                                                                            
+                                                                                                                
+                                                                                                            
+                                                                                
+Grupo Financiero CitibanamexInformación corporativaInformación financieraConciliaciónBanco ConsolidadoInformación corporativaInformación financieraConciliaciónInformes BMVTarjetas BanamexInformación corporativaInformación financieraOperadora e Impulsora de NegociosInformación corporativaInformación financieraArrendadora BanamexInformación corporativaInformación financieraAcción BanamexInformación corporativaInformación financieraGrupo Financiero CitibanamexInformación CorporativaGrupo Financiero CitibanamexDescargar PDFEstatutos SocialesConvenio Único de ResponsabilidadesConsejo de AdministraciónMiembros del Consejo de AdministraciónEstructura corporativaDescargar PDFEstructura CorporativaComitésDescargar PDFComité de Prácticas SocietariasComité de AuditoríaAcuerdos de AsambleaDescargar PDF202328 de abril16 de mayo21 de julio202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre202030 de abril201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre20145 de marzo30 de abril30 de junio11 de agosto29 de octubre201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre201027 de enero30 de abril16 de diciembre200930 de abril30 de junio30 de septiembre200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembreLa información financiera del Grupo Financiero Banamex, S.A. de C.V. y de Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex, se pone a disposición del público a través de su página electrónica en la red mundial denominada internet (www.banamex.com/esp/grupo/inf_financiera.html), en cumplimiento con lo dispuesto en las diversas disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en materia de revelación de información
+Grupo Financiero CitibanamexInformación corporativaInformación financieraConciliaciónBanco ConsolidadoInformación corporativaInformación financieraConciliaciónInformes BMVTarjetas BanamexInformación corporativaInformación financieraOperadora e Impulsora de NegociosInformación corporativaInformación financieraArrendadora BanamexInformación corporativaInformación financieraAcción BanamexInformación corporativaInformación financiera
+                                                                                        Grupo Financiero Citibanamex                                                                                                    Información Corporativa                                                                                                                                                                                                                                        
+                                                                        Grupo Financiero Citibanamex                                                                                                    Información Corporativa                                                            
+                                                    Grupo Financiero Citibanamex                                                                                                    Información Corporativa                                            
+                            Grupo Financiero Citibanamex                        
+                            Información Corporativa                        
+                                                                                                                                                
+Grupo Financiero CitibanamexInformación corporativaInformación financieraConciliación
+Grupo Financiero Citibanamex
+Información corporativaInformación financieraConciliación
+Información corporativa
+Información financiera
+Conciliación
+Banco ConsolidadoInformación corporativaInformación financieraConciliaciónInformes BMV
+Banco Consolidado
+Información corporativaInformación financieraConciliaciónInformes BMV
+Informes BMV
+Tarjetas BanamexInformación corporativaInformación financiera
+Tarjetas Banamex
+Información corporativaInformación financiera
+Operadora e Impulsora de NegociosInformación corporativaInformación financiera
+Operadora e Impulsora de Negocios
+Arrendadora BanamexInformación corporativaInformación financiera
+Arrendadora Banamex
+Acción BanamexInformación corporativaInformación financiera
+Acción Banamex
+Grupo Financiero CitibanamexInformación CorporativaGrupo Financiero CitibanamexDescargar PDFEstatutos SocialesConvenio Único de ResponsabilidadesConsejo de AdministraciónMiembros del Consejo de AdministraciónEstructura corporativaDescargar PDFEstructura CorporativaComitésDescargar PDFComité de Prácticas SocietariasComité de AuditoríaAcuerdos de AsambleaDescargar PDF202328 de abril16 de mayo21 de julio202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre202030 de abril201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre20145 de marzo30 de abril30 de junio11 de agosto29 de octubre201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre201027 de enero30 de abril16 de diciembre200930 de abril30 de junio30 de septiembre200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembreLa información financiera del Grupo Financiero Banamex, S.A. de C.V. y de Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex, se pone a disposición del público a través de su página electrónica en la red mundial denominada internet (www.banamex.com/esp/grupo/inf_financiera.html), en cumplimiento con lo dispuesto en las diversas disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en materia de revelación de información
+Información Corporativa
+Grupo Financiero CitibanamexDescargar PDFEstatutos SocialesConvenio Único de ResponsabilidadesConsejo de AdministraciónMiembros del Consejo de Administración
+Grupo Financiero CitibanamexDescargar PDF
+Descargar PDF
+Estatutos SocialesConvenio Único de ResponsabilidadesConsejo de AdministraciónMiembros del Consejo de Administración
+Estatutos Sociales
+Convenio Único de Responsabilidades
+Consejo de Administración
+Miembros del Consejo de Administración
+Estructura corporativaDescargar PDFEstructura Corporativa
+Estructura corporativaDescargar PDF
+Estructura corporativa
+Estructura Corporativa
+ComitésDescargar PDFComité de Prácticas SocietariasComité de Auditoría
+ComitésDescargar PDF
+Comités
+Comité de Prácticas SocietariasComité de Auditoría
+Comité de Prácticas Societarias
+Comité de Auditoría
+Acuerdos de AsambleaDescargar PDF202328 de abril16 de mayo21 de julio202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre202030 de abril201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre20145 de marzo30 de abril30 de junio11 de agosto29 de octubre201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre201027 de enero30 de abril16 de diciembre200930 de abril30 de junio30 de septiembre200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembre
+Acuerdos de AsambleaDescargar PDF
+Acuerdos de Asamblea
+202328 de abril16 de mayo21 de julio202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre202030 de abril201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre20145 de marzo30 de abril30 de junio11 de agosto29 de octubre201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre201027 de enero30 de abril16 de diciembre200930 de abril30 de junio30 de septiembre200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembre
+202328 de abril16 de mayo21 de julio
+2023
+28 de abril16 de mayo21 de julio
+28 de abril
+16 de mayo
+21 de julio
+202229 de abril19 de julio24 de agosto31 de agosto22 de noviembre
+2022
+29 de abril19 de julio24 de agosto31 de agosto22 de noviembre
+29 de abril
+19 de julio
+24 de agosto
+31 de agosto
+22 de noviembre
+202112 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre
+2021
+12 de enero3 de febrero30 de abril21 de octubre29 de noviembre9 de diciembre
+12 de enero
+3 de febrero
+30 de abril
+21 de octubre
+29 de noviembre
+9 de diciembre
+202030 de abril
+2020
+201925 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre
+2019
+25 de febrero25 de febrero12 de abril30 de abril17 de junio23 de septiembre24 de octubre3 de diciembre
+25 de febrero
+12 de abril
+17 de junio
+23 de septiembre
+24 de octubre
+3 de diciembre
+201830 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre
+2018
+30 de abril11 de mayo20 de junio26 de julio27 de agosto24 de octubre11 de diciembre31 de diciembre
+11 de mayo
+20 de junio
+26 de julio
+27 de agosto
+11 de diciembre
+31 de diciembre
+201723 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre
+2017
+23 de marzo29 de marzo24 de mayo31 de mayo29 de septiembre21 de diciembre
+23 de marzo
+29 de marzo
+24 de mayo
+31 de mayo
+29 de septiembre
+21 de diciembre
+201617 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre
+2016
+17 de febrero28 de marzo29 de abril21 de julio15 de noviembre28 de noviembre26 de diciembre
+17 de febrero
+28 de marzo
+15 de noviembre
+28 de noviembre
+26 de diciembre
+201519 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre
+2015
+19 de febrero4 de marzo13 de abril30 de abril23 de junio25 de noviembre
+19 de febrero
+4 de marzo
+13 de abril
+23 de junio
+25 de noviembre
+20145 de marzo30 de abril30 de junio11 de agosto29 de octubre
+2014
+5 de marzo30 de abril30 de junio11 de agosto29 de octubre
+5 de marzo
+30 de junio
+11 de agosto
+29 de octubre
+201314 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre
+2013
+14 de enero15 de abril30 de abril17 de junio19 de julio18 de octubre27 de noviembre2 de diciembre
+14 de enero
+15 de abril
+18 de octubre
+27 de noviembre
+2 de diciembre
+20122 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre
+2012
+2 de enero27 de marzo30 de abril18 de junio24 de septiembre1 de octubre16 de noviembre
+2 de enero
+27 de marzo
+18 de junio
+24 de septiembre
+1 de octubre
+16 de noviembre
+201122 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre
+2011
+22 de marzo29 de abril30 de mayo20 de junio19 de septiembre9 de diciembre
+22 de marzo
+30 de mayo
+19 de septiembre
+201027 de enero30 de abril16 de diciembre
+2010
+27 de enero30 de abril16 de diciembre
+27 de enero
+16 de diciembre
+200930 de abril30 de junio30 de septiembre
+2009
+30 de abril30 de junio30 de septiembre
+30 de septiembre
+200810 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre
+2008
+10 de marzo1 de abril30 de abril15 de julio18 de julio7 de agosto27 de noviembre
+10 de marzo
+1 de abril
+15 de julio
+18 de julio
+7 de agosto
+200724 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre
+2007
+24 de enero23 de abril30 de abril (anual)30 de abril25 de octubre21 de diciembre21 de diciembre
+24 de enero
+23 de abril
+30 de abril (anual)
+25 de octubre
+200613 de febrero28 de abril5 de mayo25 de septiembre28 de diciembre
+2006
+13 de febrero28 de abril5 de mayo25 de septiembre28 de diciembre
+13 de febrero
+5 de mayo
+25 de septiembre
+28 de diciembre
+La información financiera del Grupo Financiero Banamex, S.A. de C.V. y de Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex, se pone a disposición del público a través de su página electrónica en la red mundial denominada internet (www.banamex.com/esp/grupo/inf_financiera.html), en cumplimiento con lo dispuesto en las diversas disposiciones emitidas por la Comisión Nacional Bancaria y de Valores, en materia de revelación de información
+www.banamex.com/esp/grupo/inf_financiera.html
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+        document.addEventListener('citi:generic-metrics-loaded', function () {            CitiUtils.getScript('/assets/js/library_metrics.js').then(function () {                CitiUtils.getScript('./assets/js/metricas.js');            });        });    
+<img            src="https://portal.banamex.uat1.citibankonlineqa.com/akam/11/pixel_18805bde?a=dD00YmNhMzU4ZmQ2YTA5MmUwNjU5OTY1ZmU1Y2JhNTE1NDhlNWZiMGZlJmpzPW9mZg=="            style="visibility: hidden; position: absolute; left: -999px; top: -999px;" />

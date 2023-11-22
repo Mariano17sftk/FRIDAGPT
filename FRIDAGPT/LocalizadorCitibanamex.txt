@@ -1,0 +1,254 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaPuedes buscar una sucursal por:DirecciónN.º de sucursalElige que quieres ver:SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonialCombinaciones de teclasDatos del mapa ©2023 Google, INEGITérminosNotificar un problema de MapsLocalizador CitibanamexEncuentra en nuestro mapa tu Sucursal Citibanamex más cercana.Utiliza nuestro buscador para encontrar Sucursales, Cajeros, Atención de Afore, así como oficinas de Banca Privada y Patrimonial.¿Quieres descargar información sobre la localización y servicios de todos nuestros ATMs? Conoce nuestra API de Datos Abiertos para ATMs.El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+.LGLeeN-keyboard-shortcuts-view{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LGLeeN-keyboard-shortcuts-view table,.LGLeeN-keyboard-shortcuts-view tbody,.LGLeeN-keyboard-shortcuts-view td,.LGLeeN-keyboard-shortcuts-view tr{background:inherit;border:none;margin:0;padding:0}.LGLeeN-keyboard-shortcuts-view table{display:table}.LGLeeN-keyboard-shortcuts-view tr{display:table-row}.LGLeeN-keyboard-shortcuts-view td{-moz-box-sizing:border-box;box-sizing:border-box;display:table-cell;color:#000;padding:6px;vertical-align:middle;white-space:nowrap}.LGLeeN-keyboard-shortcuts-view td:first-child{text-align:end}.LGLeeN-keyboard-shortcuts-view td kbd{background-color:#e8eaed;border-radius:2px;border:none;-moz-box-sizing:border-box;box-sizing:border-box;color:inherit;display:inline-block;font-family:Google Sans Text,Roboto,Arial,sans-serif;line-height:16px;margin:0 2px;min-height:20px;min-width:20px;padding:2px 4px;position:relative;text-align:center}.gm-control-active>img{-webkit-box-sizing:content-box;box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:focus>img:nth-child(1),.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1),.gm-control-active:disabled>img:nth-child(1){display:none}.gm-control-active:focus>img:nth-child(2),.gm-control-active:hover>img:nth-child(2){display:block}.gm-control-active:active>img:nth-child(3){display:block}.gm-control-active:disabled>img:nth-child(4){display:block}sentinel{}.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}.gm-ui-hover-effect>span{background-color:#000}@media (forced-colors:active),(prefers-contrast:more){.gm-ui-hover-effect>span{background-color:ButtonText}}sentinel{}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span{outline-offset:3px}sentinel{}@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}.gm-style-moc{background-color:rgba(0,0,0,.45);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;-o-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;-o-transform:translateY(-50%);transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;-webkit-box-shadow:0 2px 6px rgba(0,0,0,.3);box-shadow:0 2px 6px rgba(0,0,0,.3);-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-logo:after{content:"";padding:1px 1px 1px 0;height:18px;-webkit-box-sizing:border-box;box-sizing:border-box;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png);background-position:right;background-repeat:no-repeat;-webkit-background-size:120px 14px;background-size:120px 14px}.hdpi.pac-logo:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#515151}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);-webkit-background-size:34px 34px;background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}sentinel{}.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;-webkit-box-shadow:0 2px 6px rgba(0,0,0,.3);box-shadow:0 2px 6px rgba(0,0,0,.3);-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-logo:after{content:"";padding:1px 1px 1px 0;height:18px;-webkit-box-sizing:border-box;box-sizing:border-box;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png);background-position:right;background-repeat:no-repeat;-webkit-background-size:120px 14px;background-size:120px 14px}.hdpi.pac-logo:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#515151}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);-webkit-background-size:34px 34px;background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}sentinel{}                                            Localizador | Citibanamex
+.LGLeeN-keyboard-shortcuts-view{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LGLeeN-keyboard-shortcuts-view table,.LGLeeN-keyboard-shortcuts-view tbody,.LGLeeN-keyboard-shortcuts-view td,.LGLeeN-keyboard-shortcuts-view tr{background:inherit;border:none;margin:0;padding:0}.LGLeeN-keyboard-shortcuts-view table{display:table}.LGLeeN-keyboard-shortcuts-view tr{display:table-row}.LGLeeN-keyboard-shortcuts-view td{-moz-box-sizing:border-box;box-sizing:border-box;display:table-cell;color:#000;padding:6px;vertical-align:middle;white-space:nowrap}.LGLeeN-keyboard-shortcuts-view td:first-child{text-align:end}.LGLeeN-keyboard-shortcuts-view td kbd{background-color:#e8eaed;border-radius:2px;border:none;-moz-box-sizing:border-box;box-sizing:border-box;color:inherit;display:inline-block;font-family:Google Sans Text,Roboto,Arial,sans-serif;line-height:16px;margin:0 2px;min-height:20px;min-width:20px;padding:2px 4px;position:relative;text-align:center}
+.gm-control-active>img{-webkit-box-sizing:content-box;box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:focus>img:nth-child(1),.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1),.gm-control-active:disabled>img:nth-child(1){display:none}.gm-control-active:focus>img:nth-child(2),.gm-control-active:hover>img:nth-child(2){display:block}.gm-control-active:active>img:nth-child(3){display:block}.gm-control-active:disabled>img:nth-child(4){display:block}sentinel{}
+.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}.gm-ui-hover-effect>span{background-color:#000}@media (forced-colors:active),(prefers-contrast:more){.gm-ui-hover-effect>span{background-color:ButtonText}}sentinel{}
+.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span{outline-offset:3px}sentinel{}
+@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}
+.gm-style-moc{background-color:rgba(0,0,0,.45);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;-o-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;-o-transform:translateY(-50%);transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}
+.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}
+.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;-webkit-box-shadow:0 2px 6px rgba(0,0,0,.3);box-shadow:0 2px 6px rgba(0,0,0,.3);-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-logo:after{content:"";padding:1px 1px 1px 0;height:18px;-webkit-box-sizing:border-box;box-sizing:border-box;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png);background-position:right;background-repeat:no-repeat;-webkit-background-size:120px 14px;background-size:120px 14px}.hdpi.pac-logo:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#515151}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);-webkit-background-size:34px 34px;background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}sentinel{}
+Localizador | Citibanamex
+                                        ¡Ahora algunas sucursales abren los sábados!                    Descubre cuál es la más cercana a ti seleccionándolas en el mapa.          Recuerda: por la contingencia, aún hay sucursales que permanecen cerradas.                                                                                    
+                                    ¡Ahora algunas sucursales abren los sábados!                    Descubre cuál es la más cercana a ti seleccionándolas en el mapa.          Recuerda: por la contingencia, aún hay sucursales que permanecen cerradas.                                                                              
+                              ¡Ahora algunas sucursales abren los sábados!                    Descubre cuál es la más cercana a ti seleccionándolas en el mapa.          Recuerda: por la contingencia, aún hay sucursales que permanecen cerradas.              
+                      ¡Ahora algunas sucursales abren los sábados!                    Descubre cuál es la más cercana a ti seleccionándolas en el mapa.          Recuerda: por la contingencia, aún hay sucursales que permanecen cerradas.        
+            ¡Ahora algunas sucursales abren los sábados!          
+¡Ahora algunas sucursales abren los sábados!
+Descubre cuál es la más cercana a ti seleccionándolas en el mapa.
+Recuerda: por la contingencia, aún hay sucursales que permanecen cerradas.
+                                                      
+                                        
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Puedes buscar una sucursal por:DirecciónN.º de sucursalElige que quieres ver:SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonialCombinaciones de teclasDatos del mapa ©2023 Google, INEGITérminosNotificar un problema de Maps
+Puedes buscar una sucursal por:DirecciónN.º de sucursalElige que quieres ver:SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonial
+  
+Puedes buscar una sucursal por:
+DirecciónN.º de sucursalElige que quieres ver:SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonial
+DirecciónN.º de sucursal
+Dirección
+N.º de sucursal
+Elige que quieres ver:SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonial
+                                      Mostrar opciones de búsqueda                                                                                                                                              
+                    Mostrar opciones de búsqueda                                                                                                                              
+Mostrar
+                                                                                        
+Elige que quieres ver:
+SucursalesCajerosCajerosSmartAforePriorityBancaPrivadaBancaPatrimonial
+Sucursales
+Cajeros
+CajerosSmart
+Afore
+Priority
+BancaPrivada
+BancaPatrimonial
+                                                                                    Aplicar búsqueda                                                                              
+                                                          Aplicar búsqueda                                                      
+                              Aplicar búsqueda                            
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                  
+                                                                                                                                  
+                                                                              
+                                  
+                  ¿Estás buscando promociones?                                                                                                                                                                                                                                                        
+          ¿Estás buscando promociones?        
+¿Estás buscando promociones?
+                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                
+                                                                                                                                                                                          
+                                                                                                                    
+                                                                      
+                              
+                                                        Regresar                  
+                                                  Regresar              
+                                          Regresar        
+      Quiero ir a esta sucursal              Elegir sucursal          
+Quiero ir a esta sucursal
+        Elegir sucursal      
+                            Sucursal Insurgentes Santa                Margarita            
+Sucursal Insurgentes Santa                Margarita
+              N.º de sucursal:              266            
+N.º de sucursal:
+266
+              Dirección:                              Insurgentes Sur 800, Col. Del Valle, Benito Juárez, C.P. 03100, Ciudad de México                          
+Dirección:
+                Insurgentes Sur 800, Col. Del Valle, Benito Juárez, C.P. 03100, Ciudad de México              
+              Referencia:              Santa Catalina y Santa Margarita            
+Referencia:
+Santa Catalina y Santa Margarita
+              Distancia:              1,5 km (4 min)            
+Distancia:
+1,5 km (4 min)
+(4 min)
+              Te atenderán en:              (9 min) aprox.            
+Te atenderán en:
+(9 min) aprox.
+(9 min)
+                          Promociones:                      
+              Promociones:            
+Promociones:
+            Horarios:                                                  Abierto ahora            Cerrado en días              festivos                      06 de febrero 20 de marzo 06 de abril 07 de abril 01 de mayo 16 de septiembre 02 de noviembre 20 de noviembre 12 de diciembre 25 de diciembre 
+Horarios:
+                          
+Abierto ahora
+Cerrado en días              festivos            
+festivos
+06 de febrero 20 de marzo 06 de abril 07 de abril 01 de mayo 16 de septiembre 02 de noviembre 20 de noviembre 12 de diciembre 25 de diciembre 
+            Esta sucursal cuenta con:                                          ●                Cajero                                            ●                Cajero Smart                                            ●                Afore                                            ●                Priority                                            ●                Banca Privada                                            ●                Banca Patrimonial                                            ●                Teletón                                                                                                                      Estacionamiento                                                                                              Estacionamiento para discapacitados                                                                                              Rampas                                    
+Esta sucursal cuenta con:
+                              ●                Cajero                                            ●                Cajero Smart                                            ●                Afore                                            ●                Priority                                            ●                Banca Privada                                            ●                Banca Patrimonial                                            ●                Teletón                          
+                ●                Cajero              
+●
+                ●                Cajero Smart              
+                ●                Afore              
+                ●                Priority              
+                ●                Banca Privada              
+                ●                Banca Patrimonial              
+                ●                Teletón              
+                                                                                Estacionamiento                                                                                              Estacionamiento para discapacitados                                                                                              Rampas                          
+                                                                  Estacionamiento              
+                                                                  Estacionamiento para discapacitados              
+                                                                  Rampas              
+            Centro de Atención Telefónica:            55 1226 2639          
+Centro de Atención Telefónica:
+55 1226 2639
+                          Más Información                                      Recibe depósitos en efectivo en dólares                      
+              Más Información            
+              Recibe depósitos en efectivo en dólares            
+                                                                        Continuar                                                                                                                                
+                                                                      Continuar                                                                                                                            
+                                                                  Continuar                                                                            
+                                                            Continuar                                                                        
+          Continuar                                                                  
+                                                
+                                          
+                                
+                                                  Ver sucursales                                                            Ver promociones            
+                                              Ver sucursales          
+                                  Ver sucursales      
+                                              Ver promociones          
+                                  Ver promociones      
+Combinaciones de teclasDatos del mapa ©2023 Google, INEGITérminosNotificar un problema de Maps
+Para desplazarte, pulsa las teclas de flecha.
+←Mover a la izquierda→Mover a la derecha↑Mover hacia arriba↓Mover hacia abajo+Ampliar-ReducirInicioSaltar hacia la izquierda un 75 %FinSaltar hacia la derecha un 75 %Re PágSaltar hacia arriba un 75 %Av PágSaltar hacia abajo un 75 %
+←Mover a la izquierda
+←
+Mover a la izquierda
+→Mover a la derecha
+→
+Mover a la derecha
+↑Mover hacia arriba
+↑
+Mover hacia arriba
+↓Mover hacia abajo
+↓
+Mover hacia abajo
++Ampliar
++
+Ampliar
+-Reducir
+-
+Reducir
+InicioSaltar hacia la izquierda un 75 %
+Inicio
+Saltar hacia la izquierda un 75 %
+FinSaltar hacia la derecha un 75 %
+Fin
+Saltar hacia la derecha un 75 %
+Re PágSaltar hacia arriba un 75 %
+Re Pág
+Saltar hacia arriba un 75 %
+Av PágSaltar hacia abajo un 75 %
+Av Pág
+Saltar hacia abajo un 75 %
+Combinaciones de teclas
+Datos del mapa ©2023 Google, INEGI
+Datos del mapa
+200 m Haz clic para alternar entre unidades métricas e imperiales
+200 m 
+Haz clic para alternar entre unidades métricas e imperiales
+Términos
+Notificar un problema de Maps
+Localizador CitibanamexEncuentra en nuestro mapa tu Sucursal Citibanamex más cercana.Utiliza nuestro buscador para encontrar Sucursales, Cajeros, Atención de Afore, así como oficinas de Banca Privada y Patrimonial.¿Quieres descargar información sobre la localización y servicios de todos nuestros ATMs? Conoce nuestra API de Datos Abiertos para ATMs.
+Localizador Citibanamex
+Encuentra en nuestro mapa tu Sucursal Citibanamex más cercana.
+Utiliza nuestro buscador para encontrar Sucursales, Cajeros, Atención de Afore, así como oficinas de Banca Privada y Patrimonial.
+¿Quieres descargar información sobre la localización y servicios de todos nuestros ATMs? Conoce nuestra API de Datos Abiertos para ATMs.
+Conoce nuestra API de Datos Abiertos
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+    document.addEventListener('citi:generic-metrics-loaded', function(){      CitiUtils.getScript('/assets/js/library_metrics.js');    });    // Filtro priorityvar filtroPriority = window.location.href.split('?')[1];    var promoIndex = -1    $(document).ready(function () {      initMap();    });    var urlParamsString = window.location.href.split('?')[1];    var promoActive = true;    var idN;    if (urlParamsString) {      var urlParamsArray = urlParamsString.split('&');      var urlParamsMap = [];      var param;      urlParamsArray.forEach(function (val) {        param = val.split('=');        urlParamsMap.push({          key: param[0],          value: param[1]        })      });      urlParamsMap.forEach(function (val, index) {        if (val && val.key == 'promos') {          promoIndex = index;        }      });      if (promoIndex != -1 && (urlParamsMap[promoIndex].value == "true" || !isNaN(urlParamsMap[promoIndex].value))) {        promoActive = 'initial'        if (!isNaN(urlParamsMap[promoIndex].value)) {          idN = parseInt(urlParamsMap[promoIndex].value)        }      }    }var filtroInicial = filtroPriority && filtroPriority.indexOf('filter=priority') > -1 ? ["950"] : ['100', '110'];    // Inicializa el mapa    function initMap() {      localizador = new Localizador({        container: 'contentMaps',        markers: filtroInicial,        header: {          filter: true,          choosable: false,           promotions: false,           promotionIdNeg: idN ? idN : undefined        }      });      // Events called only when chooseable is true      localizador.onChoose(function (param) {        console.log('seleccion');        console.log(param);      });      localizador.onKeyDownSearch(function (event) {        console.log('event key down->' + event);      });      localizador.onSugguest(function (WordSuggested) {        console.log('on suggest: ' + WordSuggested);      });      localizador.onSearchResult(function (wordSearch) {        console.log('on seach Result: ' + wordSearch);      });      localizador.onSearchNoResult(function (wordSearch) {        console.log('on search no result:' + wordSearch);      });      localizador.onClickSucursal(function (sucursal) {        console.log(' on event click sucursal');        console.log(sucursal);      });      localizador.onClickFilter(function () {        console.log('on Click filter open');      });      localizador.onClickApplyFilter(function (filters) {        console.log('on apply filter values:' + filters);      });      localizador.onResultFilter(function () {        console.log('on filter result complete ');      });      localizador.onClickLocate(function () {        console.log('on locate click');      });      localizador.create();    }  

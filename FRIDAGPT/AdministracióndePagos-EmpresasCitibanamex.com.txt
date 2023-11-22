@@ -1,0 +1,177 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaPagosAdministra y opera tu tesorería de la formamás sencilla con los productos y serviciosde Cash Management.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContactoPago de Servicios / Impuestos EstatalesMás infoNómina CitibanamexMás infoImpuestos FederalesMás infoImpuestos AduanalesMás infoSUAMás infoPemex RefinaciónMás infoPemex GASMás infoTransferencias a CuentasMás infoTransferencias InterbancariasMás infoManager ChecksMás infoÓrdenes de Pago ReferenciadasMás infoÓrdenes de Pago TradicionalesMás InfoDomiciliaciónMas InfoEl Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+        Administración de Pagos - Empresas | Citibanamex.com                                var gomez = {            gs: new Date().getTime(),            acctId: "0521CB",            pgId: "",            grpId: ""        };                                                                #menu_holder,    #menu_holder .cont_menu2 {        z-index: 0 !important;    }
+Administración de Pagos - Empresas | Citibanamex.com
+        var gomez = {            gs: new Date().getTime(),            acctId: "0521CB",            pgId: "",            grpId: ""        };    
+    #menu_holder,    #menu_holder .cont_menu2 {        z-index: 0 !important;    }
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+PagosAdministra y opera tu tesorería de la formamás sencilla con los productos y serviciosde Cash Management.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContactoPago de Servicios / Impuestos EstatalesMás infoNómina CitibanamexMás infoImpuestos FederalesMás infoImpuestos AduanalesMás infoSUAMás infoPemex RefinaciónMás infoPemex GASMás infoTransferencias a CuentasMás infoTransferencias InterbancariasMás infoManager ChecksMás infoÓrdenes de Pago ReferenciadasMás infoÓrdenes de Pago TradicionalesMás InfoDomiciliaciónMas Info
+PagosAdministra y opera tu tesorería de la formamás sencilla con los productos y serviciosde Cash Management.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContacto
+PagosAdministra y opera tu tesorería de la formamás sencilla con los productos y serviciosde Cash Management.
+Pagos
+Administra y opera tu tesorería de la formamás sencilla con los productos y serviciosde Cash Management.
+                $(document).ready(function() {                    load_html_callback_2({                        elemento: '#menu_holder',                        url: '/es/empresasygobierno/menu_empresas_negocios.htm',                        realizar: function() {}                    });                    setTimeout('men()', 3000);                });                function men() {                    $.each($('.submenu_blocks_3'), function(i) {                        if ($('.submenu_blocks_3').eq(i).find('li').size() > 7) {                            $('.submenu_blocks_3').eq(i).css('bottom', '-312px')                        }                    });                }            
+FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContacto
+if(document.createStyleSheet) {  document.createStyleSheet('/recursos/css/templates/menu_pymes.css');}else {  var styles = "@import url('/recursos/css/templates/menu_pymes.css ');";  var newSS=document.createElement('link');  newSS.rel='stylesheet';  newSS.href='data:text/css,'+escape(styles);  document.getElementsByTagName("head")[0].appendChild(newSS);  } 
+Financiamiento
+ Corto Plazo  Largo Plazo  Comercio Exterior
+Corto Plazo 
+Largo Plazo 
+Comercio Exterior
+Cash Management
+ Administración de Liquidez  Adquirente  Cobranza  Pagos                        Reporte de Comisiones                                           Guía de ServiciosMultiproducto Citibanamex
+Administración de Liquidez 
+Adquirente 
+Cobranza 
+Pagos 
+Reporte de Comisiones 
+Guía de Servicios
+Multiproducto Citibanamex
+Banca Electrónica
+ BancaNet Empresarial BancaNet Empresarial Móvil Módulo Premium CitiDirect BE CitiDirect BE℠ Mobile Seguridad
+BancaNet Empresarial
+BancaNet Empresarial Móvil
+Módulo Premium
+CitiDirect BE
+CitiDirect BE℠ Mobile
+Seguridad
+Coberturas y Riesgo
+ FX Derivados
+FX
+Derivados
+Fiduciario
+Ahorro e Inversiones
+ Inversión Empresarial Fondos de Inversión Mercado de Dinero  Notas Estructuradas   Guía de Servicios de Inversión Perfilamiento de Clientes
+Inversión Empresarial
+Fondos de Inversión
+Mercado de Dinero 
+Notas Estructuradas 
+Guía de Servicios de Inversión
+Perfilamiento de Clientes
+Contacto
+Pago de Servicios / Impuestos EstatalesMás infoNómina CitibanamexMás infoImpuestos FederalesMás infoImpuestos AduanalesMás infoSUAMás infoPemex RefinaciónMás infoPemex GASMás infoTransferencias a CuentasMás infoTransferencias InterbancariasMás infoManager ChecksMás infoÓrdenes de Pago ReferenciadasMás infoÓrdenes de Pago TradicionalesMás InfoDomiciliaciónMas Info
+Pago de Servicios / Impuestos EstatalesMás info
+Paga por BancaNet los servicios que tu empresa recibe, es rápido, cómodo y seguro. Puedes pagar más de 1,600 servicios como agua, luz, teléfono, predial, etc.
+Banca
+Pago de Servicios / Impuestos Estatales
+Más info
+Nómina CitibanamexMás info
+Una opción con amplios beneficios para tu empresa y empleados.
+Nómina Citibanamex
+Impuestos FederalesMás info
+Cumplir con tus obligaciones fiscales no debe quitarte el tiempo que tu empresa necesita. Paga tus impuestos federales desde BancaNet en unos cuantos minutos. Olvida las filas y concéntrate en tus proyectos empresariales.
+Impuestos Federales
+Impuestos AduanalesMás info
+Para facilitar las operaciones de importación y exportación de tu empresa, Citibanamex te brinda tres modalidades de pago: Banca Electrónica, módulo aduanal o sucursal.
+Impuestos Aduanales
+SUAMás info
+Una forma sencilla, rápida y eficaz de cumplir con tus obligaciones patronales desde tu empresa. Aquí podrás pagar IMSS, INFONAVIT y AFORE.
+SUA
+Pemex RefinaciónMás info
+Paga el combustible que necesitas para operar de una forma rápida y segura a través de BancaNet.
+Pemex Refinación
+Pemex GASMás info
+Si eres cliente de Pemex Gas, paga el servicio por BancaNet y vuelve a tus actividades empresariales en unos minutos.
+Pemex GAS
+Transferencias a CuentasMás info
+Servicio empresarial para hacer pagos a cuentas Citibanamex propias y de terceros.
+Transferencias a Cuentas
+Transferencias InterbancariasMás info
+Servicio empresarial para hacer pagos a cualquier banco en moneda nacional.
+Transferencias Interbancarias
+Manager ChecksMás info
+Usa este servicio de BancaNet para pagar a tus beneficiarios sin usar efectivo, ellos pueden cobrar su dinero en las sucursales Citibanamex o en cualquier otro banco.
+ Banca
+Manager Checks
+Órdenes de Pago ReferenciadasMás info
+Realiza los pagos de tu empresa con la disponibilidad de fondos siempre garantizada.
+Órdenes de Pago Referenciadas
+Órdenes de Pago TradicionalesMás Info
+Realiza los pagos de tu empresa a Personas Físicas No Bancarizadas con la disponibilidad de fondos siempre garantizada.
+Órdenes de Pago Tradicionales
+Más Info
+DomiciliaciónMas Info
+Realiza tus pagos automáticamente, con cargo a tu cuenta de cheques o tarjeta de débito.
+Domiciliación
+Mas Info
+×
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+    document.addEventListener('citi:generic-metrics-loaded', function() {           CitiUtils.getScript('/assets/js/library_metrics.js');       });        $(document).ready(function() {            defineVideo();            var langAux = "";            if (Get_Cookie("language") == 'en')                langAux = "/en";            load_html_callback_2({                elemento: '#topEncabezado',                url: '/recursos/piezas' + langAux + '/header.htm',                realizar: function() {                    ejecutarScript('topEncabezado')                }            });            load_html_callback_2({                elemento: '#MenuCompleto',                url: '/recursos/piezas' + langAux + '/MenuCompleto.htm',                realizar: function() {                    ejecutarScript('MenuCompleto')                }            });            load_html_callback_2({                elemento: '#Footer',                url: '/recursos/piezas' + langAux + '/Footer.htm',                realizar: function() {                    ejecutarScript('Footer')                }            });            load_html_callback_2({                elemento: '.tabsNoMenu',                url: '/recursos/piezas' + langAux + '/finanzas.htm',                realizar: function() {                    ejecutarScript('tabsNoMenu')                }            });            load_html_callback_2({                elemento: '#tuBanco',                url: '/recursos/piezas' + langAux + '/tu_banco.htm',                realizar: function() {                    ejecutarScript('tuBanco')                }            });        }, true);    
+        $(document).ready(function() {            setTimeout('selectMenuPrincipal(0);', 500);            $(".promoCondiciones").accordion({                header: "a",                active: false,                alwaysOpen: false,                collapsible: true,                alwaysOpen: false,                navigation: true,                clearStyle: true,                autoHeight: true            });            t_en = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>';            t_es = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-lang="es" >Tweet</a>';            switch (Get_Cookie("language")) {                case 'en':                    $('.boton_twitter').html(t_en);                    break;                case 'es':                    $('.boton_twitter').html(t_es);                    break;            }            $('#pie .copy[href][title]').qtip({                position: {                    corner: {                        target: 'topLeft',                        tooltip: 'bottomLeft'                    }                },                content: {                    text: false                }            });        });        function resizeIframe(valor) {            $("#iframe_micro_").css('height', valor + 'px');        }        function MM_openBrWindow(theURL, winName, features) {            window.open(theURL, winName, features);        }        function displayMsg() {            $('#facebmart').trigger('click');        }    
+        $("#menu_holder").addClass("mtop_menu");        $(".colorbox").colorbox();    
+        $("#bh1").css("font-size", "32px");    

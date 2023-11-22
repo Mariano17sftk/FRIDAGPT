@@ -1,0 +1,178 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaCitiDirect BE℠ MobileEl servicio que te permite realizar losmovimientos de tu empresa desde cualquierdispositivo móvil.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContactoLa evolución más sorprendente de la bancaCitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comFuncionalidadesConsulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.Y además…Autorización y consultas de transacciones de comercio exterior.Notificaciones vía SMS & Email de pagos pendientes por autorizar y liberar.Idiomas disponibles: Español, Inglés, Búlgaro, Portugués, Francés, Japonés, Chino (simplificado y tradicional), Checo, Eslovaco, Húngaro, Polaco, Rumano, Ruso, Turco.RequisitosSer usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comHerramientasDemoCitibanamex ResuelveEmpresas y GobiernoCiudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+CitiDirect BE℠ Mobile - Empresas | Citibanamex.comvar gomez={ gs: new Date().getTime(), acctId:"0521CB", pgId:"", grpId:""};                        header {      position: fixed;        margin-top: 0;    }#atencion_telefonica .cont_info_atn_int {    width: 302px;    height: auto;    float: left;    background: #FFF;    border-bottom: 0px solid #D9D9D9;    margin-left: 21px;}
+CitiDirect BE℠ Mobile - Empresas | Citibanamex.com
+var gomez={ gs: new Date().getTime(), acctId:"0521CB", pgId:"", grpId:""};
+            header {      position: fixed;        margin-top: 0;    }#atencion_telefonica .cont_info_atn_int {    width: 302px;    height: auto;    float: left;    background: #FFF;    border-bottom: 0px solid #D9D9D9;    margin-left: 21px;}
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+CitiDirect BE℠ MobileEl servicio que te permite realizar losmovimientos de tu empresa desde cualquierdispositivo móvil.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContactoLa evolución más sorprendente de la bancaCitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comFuncionalidadesConsulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.Y además…Autorización y consultas de transacciones de comercio exterior.Notificaciones vía SMS & Email de pagos pendientes por autorizar y liberar.Idiomas disponibles: Español, Inglés, Búlgaro, Portugués, Francés, Japonés, Chino (simplificado y tradicional), Checo, Eslovaco, Húngaro, Polaco, Rumano, Ruso, Turco.RequisitosSer usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comHerramientasDemoCitibanamex ResuelveEmpresas y GobiernoCiudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.
+CitiDirect BE℠ MobileEl servicio que te permite realizar losmovimientos de tu empresa desde cualquierdispositivo móvil.FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContacto
+CitiDirect BE℠ MobileEl servicio que te permite realizar losmovimientos de tu empresa desde cualquierdispositivo móvil.
+CitiDirect BE℠ Mobile
+El servicio que te permite realizar losmovimientos de tu empresa desde cualquierdispositivo móvil.
+$(document).ready(function(){load_html_callback_2({elemento:'#menu_holder' ,url:'/es/empresasygobierno/menu_empresas_negocios.htm',realizar: function(){}});setTimeout ('men()', 3000); });function men(){$.each($('.submenu_blocks_3'), function( i ) {if($('.submenu_blocks_3').eq(i).find('li').size() > 7){$('.submenu_blocks_3').eq(i).css('bottom','-312px')}});}
+FinanciamientoCash ManagementBanca ElectrónicaCoberturas y RiesgoFiduciarioAhorro e InversionesContacto
+if(document.createStyleSheet) {  document.createStyleSheet('/recursos/css/templates/menu_pymes.css');}else {  var styles = "@import url('/recursos/css/templates/menu_pymes.css ');";  var newSS=document.createElement('link');  newSS.rel='stylesheet';  newSS.href='data:text/css,'+escape(styles);  document.getElementsByTagName("head")[0].appendChild(newSS);  } 
+Financiamiento
+ Corto Plazo  Largo Plazo  Comercio Exterior
+Corto Plazo 
+Largo Plazo 
+Comercio Exterior
+Cash Management
+ Administración de Liquidez  Adquirente  Cobranza  Pagos                        Reporte de Comisiones                                           Guía de ServiciosMultiproducto Citibanamex
+Administración de Liquidez 
+Adquirente 
+Cobranza 
+Pagos 
+Reporte de Comisiones 
+Guía de Servicios
+Multiproducto Citibanamex
+Banca Electrónica
+ BancaNet Empresarial BancaNet Empresarial Móvil Módulo Premium CitiDirect BE CitiDirect BE℠ Mobile Seguridad
+BancaNet Empresarial
+BancaNet Empresarial Móvil
+Módulo Premium
+CitiDirect BE
+Seguridad
+Coberturas y Riesgo
+ FX Derivados
+FX
+Derivados
+Fiduciario
+Ahorro e Inversiones
+ Inversión Empresarial Fondos de Inversión Mercado de Dinero  Notas Estructuradas   Guía de Servicios de Inversión Perfilamiento de Clientes
+Inversión Empresarial
+Fondos de Inversión
+Mercado de Dinero 
+Notas Estructuradas 
+Guía de Servicios de Inversión
+Perfilamiento de Clientes
+Contacto
+La evolución más sorprendente de la bancaCitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comFuncionalidadesConsulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.Y además…Autorización y consultas de transacciones de comercio exterior.Notificaciones vía SMS & Email de pagos pendientes por autorizar y liberar.Idiomas disponibles: Español, Inglés, Búlgaro, Portugués, Francés, Japonés, Chino (simplificado y tradicional), Checo, Eslovaco, Húngaro, Polaco, Rumano, Ruso, Turco.RequisitosSer usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comHerramientasDemoCitibanamex ResuelveEmpresas y GobiernoCiudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.
+La evolución más sorprendente de la banca
+CitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comFuncionalidadesConsulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.Y además…Autorización y consultas de transacciones de comercio exterior.Notificaciones vía SMS & Email de pagos pendientes por autorizar y liberar.Idiomas disponibles: Español, Inglés, Búlgaro, Portugués, Francés, Japonés, Chino (simplificado y tradicional), Checo, Eslovaco, Húngaro, Polaco, Rumano, Ruso, Turco.RequisitosSer usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comHerramientasDemoCitibanamex ResuelveEmpresas y GobiernoCiudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.
+CitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comFuncionalidadesConsulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.Y además…Autorización y consultas de transacciones de comercio exterior.Notificaciones vía SMS & Email de pagos pendientes por autorizar y liberar.Idiomas disponibles: Español, Inglés, Búlgaro, Portugués, Francés, Japonés, Chino (simplificado y tradicional), Checo, Eslovaco, Húngaro, Polaco, Rumano, Ruso, Turco.RequisitosSer usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.comHerramientasDemo
+CitiDirect BE℠ Mobile es una solución que permite a los clientes de Citi Direct BE℠ utilizar funcionalidades claves a través de su dispositivo móvil.
+Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.Filtro rápido y fácil de la información sobre saldos y transacciones.Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.
+Permite hacer negocios críticos en cualquier lugar, en cualquier momento a través del navegador de su dispositivo móvil (iOS, Android, Windows, Symbian, BlackBerry).
+Automáticamente sincroniza la plataforma de CitiDirect Online Banking para almacenar todas las actividades centralmente, no importando el canal que se elija para acceder a la información. Ayuda a optimizar sus procesos. Notifica al instante de las actividades pendientes.
+Filtro rápido y fácil de la información sobre saldos y transacciones.
+Expande el más alto nivel de protección para sus transacciones, inclusive en un ambiente móvil.
+Para accesar a CitiDirect BE Mobile, sólo ingresa la siguiente URL en el navegador de su dispositivo: https://m.citidirect.com
+https://m.citidirect.com
+Funcionalidades
+Consulta de saldos y transacciones realizadas por CitiDirectIniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnectVisualización de la posición del saldo del día.
+Consulta de saldos y transacciones realizadas por CitiDirect
+Iniciar Pagos utilizando pre-formatos (Solo Transferencias de fondos internacionales)
+Autorizar y liberar pagos y archivos recibidos a través de CitiDirect o CitiConnect
+Visualización de la posición del saldo del día.
+$(document).ready(function(){var accordion = $(".classAcor0 h4");$(accordion).click(function() {$(accordion).removeClass("selected");$(accordion).next().slideUp();$(this).addClass("selected");$(this).next().slideDown();}); });
+Requisitos
+Ser usuario de CitiDirect Online Banking.Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.
+Ser usuario de CitiDirect Online Banking.
+Los usuarios administradores deberán otorgar facultades a los usuarios a través del módulo Móvil y Tablet Administración de usuarios para que puedan acceder con su dispositivo móvil.
+Móvil y Tablet Administración de usuarios
+En caso de que el administrador no tenga acceso a este módulo, lo puede activar con ayuda del equipo de Citibanamex Resuelve: De la Cd. de México: 2226 1111; Del interior sin costo: 01 800 111 1122 EUA y Canadá: 1 855 295 7093 2226 11 11 1.
+El dispositivo móvil debe tener cualquiera de los siguientes SO: Android, Apple iOS, Windows, Symbian o Blackberry.
+Conexión a Internet, ya sea vía Wi-Fi (red inalámbrica) o con un plan de datos.
+El navegador en cuestión deberá soportar XHTML-MP 1.0, JavaScript 1.5, CSS-MP 1.0; adicional deberá permitir colocar cookies.
+Para accesar a CitiDirect BE Mobile, sólo ingrese la siguiente URL en el navegador de su dispositivo: https://m.citidirect.com
+CitiDirect BE Mobile
+Herramientas
+Demo
+Citibanamex ResuelveEmpresas y GobiernoCiudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.
+Citibanamex ResuelveEmpresas y Gobierno
+Ciudad de México2226 1111Otra ciudad del país:01 800 111 1122EUA y Canadá1 855 295 7093De lunes a sábado de07:00 a 21:00 horasCorreo electrónicoresuelve@citibanamex.com
+Ciudad de México
+2226 1111
+Otra ciudad del país:
+01 800 111 1122
+EUA y Canadá
+1 855 295 7093
+De lunes a sábado de
+07:00 a 21:00 horas
+Correo electrónico
+resuelve@citibanamex.com
+* Este producto NO es atendido en Citibanamex Resuelve;sin embargo, será canalizado con el área responsable del mismo.
+NO es atendido en Citibanamex Resuelve
+ $(document).ready(function(){                   defineVideo();  var langAux="";    if(Get_Cookie("language")=='en')  langAux="/en";   load_html_callback_2({elemento:'#topEncabezado',url:'/recursos/piezas'+langAux+'/header.htm',realizar:function(){ejecutarScript('topEncabezado')}});  load_html_callback_2({elemento:'#MenuCompleto' ,url:'/recursos/piezas'+langAux+'/MenuCompleto.htm',realizar:function(){ejecutarScript('MenuCompleto') }});  load_html_callback_2({elemento:'#Footer'       ,url:'/recursos/piezas'+langAux+'/Footer.htm',realizar:           function(){ejecutarScript('Footer')      }});  load_html_callback_2({elemento:'.tabsNoMenu'   ,url:'/recursos/piezas'+langAux+'/finanzas.htm',realizar:      function(){ejecutarScript('tabsNoMenu')   }});  load_html_callback_2({elemento:'#tuBanco'      ,url:'/recursos/piezas'+langAux+'/tu_banco.htm',realizar:        function(){ejecutarScript('tuBanco')     }});  },true);              
+              $(document).ready(function(){                                setTimeout('selectMenuPrincipal(0);',500);                                $(".promoCondiciones").accordion({ header: "a", active: false, alwaysOpen: false, collapsible: true, alwaysOpen: false, navigation: true, clearStyle: true, autoHeight: true});                                t_en = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>';                                t_es = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-lang="es" >Tweet</a>';                                switch(Get_Cookie("language")){ case 'en': $('.boton_twitter').html(t_en); break;                                case 'es': $('.boton_twitter').html(t_es); break;                                }                                $('#pie .copy[href][title]').qtip({position: {corner: {target: 'topLeft',tooltip: 'bottomLeft'}},content: {text: false}});                                });              function resizeIframe(valor){                               $("#iframe_micro_").css('height',valor+'px');               }              function MM_openBrWindow(theURL,winName,features){window.open(theURL,winName,features);}              function displayMsg(){              $('#facebmart').trigger('click');              }
+$("#menu_holder").addClass("mtop_menu");$(".colorbox").colorbox();
+ <!-- /* Copyright 1997-2010 Omniture, Inc. */s.pageName="";s.channel="";s.prop1="";s.prop2="";s.prop3="";s.prop4="";s.hier1="";s.prop5="";s.prop22="";  switch(Get_Cookie("language")){case "es":s.prop10="ES";break;case "en":s.prop10="EN";break;  }/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/ var s_code=s.t();if(s_code)document.write(s_code) //-->
+×
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.

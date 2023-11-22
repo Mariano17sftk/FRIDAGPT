@@ -1,0 +1,6 @@
+Compromiso Social | Citibanamexdocument.addEventListener('citi:before-initial-header-footer-load', function(event){event.preventDefault();});                          if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+Compromiso Social | Citibanamex
+document.addEventListener('citi:before-initial-header-footer-load', function(event){event.preventDefault();});
+if (self === top) { var antiClickjack = document.getElementById("antiClickjack"); antiClickjack.parentNode.removeChild(antiClickjack);} else { top.location = self.location;}
+
+var h1=document.getElementById('h1-Seo');h1.parentNode.removeChild(h1);document.addEventListener('citi:generic-metrics-loaded',function(){            CitiUtils.getScript('/assets/js/library_metrics.js');        });

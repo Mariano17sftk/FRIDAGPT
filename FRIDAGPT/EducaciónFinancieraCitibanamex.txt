@@ -1,0 +1,158 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaEducación Financiera CitibanamexAprende a cómo tener una mejor relación con tu dinero y lograr tus sueñosCentro de Educación FinancieraDescubre los videos, cursos, artículos, calculadoras y muchos más recursos que tenemos para tiVideos que no puedes perderteEncuentra más contenido sobre finanzas personales en nuestro canal de Youtube CitibanamexMejora la relación con tu dinero con estos cursos que tenemos para tiY aprovecha al máximo tu dineroFinanzas personales6 leccionesCuenta de Nómina5 leccionesAfore4 leccionesPyMES7 leccionesSeguros5 leccionesTarjeta de débito6 leccionesIr a todos los cursosEquilibra tu estilo de vida y tus finanzas con nuestros artículos06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver másVer todos los artículosConoce más sobre tushábitos financierosTen el control de tu dineroTest de finanzas sanasDescubre cuál es tu situación financiera en menos de 5 minutos.Hacer test¿Cómo pagar tu tarjeta de crédito?Averigua cómo impactan tus pagos en el control de tu deuda.CalcularEl contenido de esta sección es de carácter informativo, con la intención de ofrecer recomendaciones sobre temas de finanzas personales y uso de productos y servicios bancarios para desarrollar hábitos financieros saludables de manera general, ninguna información debe tomarse como definitiva u oponerse a aquella brindada por esta u otra institución bancaria a sus clientes, ni genera ningún tipo de obligación por parte de Citibanamex-Educación Financiera ni al Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex.El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+                                                  Educación Financiera | Citibanamex          if (self === top) {          var antiClickjack = document.getElementById("antiClickjack");          antiClickjack.parentNode.removeChild(antiClickjack);      } else {          top.location = self.location;      }  body {opacity: 0 !important}
+Educación Financiera | Citibanamex
+      if (self === top) {          var antiClickjack = document.getElementById("antiClickjack");          antiClickjack.parentNode.removeChild(antiClickjack);      } else {          top.location = self.location;      }  
+body {opacity: 0 !important}
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Educación Financiera CitibanamexAprende a cómo tener una mejor relación con tu dinero y lograr tus sueños
+Educación Financiera Citibanamex
+Aprende a cómo tener una mejor relación con tu dinero y lograr tus sueños
+Centro de Educación FinancieraDescubre los videos, cursos, artículos, calculadoras y muchos más recursos que tenemos para tiVideos que no puedes perderteEncuentra más contenido sobre finanzas personales en nuestro canal de Youtube Citibanamex
+Centro de Educación Financiera
+Descubre los videos, cursos, artículos, calculadoras y muchos más recursos que tenemos para ti
+Videos que no puedes perderte
+          kWidget.embed({            "targetId": "kaltura_player_1693419883",            "wid": "_972141",            "uiconf_id": 42853341,            "flashvars": {            "playlistAPI.kpl0Id": "1_x4ujxc6k"          },            "cache_st": 1693419883          });        
+                                  kWidget.embed({            "targetId": "kaltura_player_1693426243",            "wid": "_972141",            "uiconf_id": 42606311,            "flashvars": {            "playlistAPI.kpl0Id": "1_x4ujxc6k"          },            "cache_st": 1693426243          });              
+          kWidget.embed({            "targetId": "kaltura_player_1693426243",            "wid": "_972141",            "uiconf_id": 42606311,            "flashvars": {            "playlistAPI.kpl0Id": "1_x4ujxc6k"          },            "cache_st": 1693426243          });        
+Encuentra más contenido sobre finanzas personales en nuestro canal de Youtube Citibanamex
+Youtube Citibanamex
+Mejora la relación con tu dinero con estos cursos que tenemos para tiY aprovecha al máximo tu dineroFinanzas personales6 leccionesCuenta de Nómina5 leccionesAfore4 leccionesPyMES7 leccionesSeguros5 leccionesTarjeta de débito6 leccionesIr a todos los cursosEquilibra tu estilo de vida y tus finanzas con nuestros artículos06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver másVer todos los artículosConoce más sobre tushábitos financierosTen el control de tu dineroTest de finanzas sanasDescubre cuál es tu situación financiera en menos de 5 minutos.Hacer test¿Cómo pagar tu tarjeta de crédito?Averigua cómo impactan tus pagos en el control de tu deuda.Calcular
+Mejora la relación con tu dinero con estos cursos que tenemos para tiY aprovecha al máximo tu dineroFinanzas personales6 leccionesCuenta de Nómina5 leccionesAfore4 leccionesPyMES7 leccionesSeguros5 leccionesTarjeta de débito6 leccionesIr a todos los cursos
+Mejora la relación con tu dinero con estos cursos que tenemos para tiY aprovecha al máximo tu dinero
+Mejora la relación con tu dinero con estos cursos que tenemos para ti
+Y aprovecha al máximo tu dinero
+Finanzas personales6 leccionesCuenta de Nómina5 leccionesAfore4 leccionesPyMES7 leccionesSeguros5 leccionesTarjeta de débito6 leccionesIr a todos los cursos
+Finanzas personales6 leccionesCuenta de Nómina5 leccionesAfore4 leccionesPyMES7 leccionesSeguros5 leccionesTarjeta de débito6 lecciones
+Finanzas personales6 lecciones
+Finanzas personales
+6 lecciones
+Cuenta de Nómina5 lecciones
+Cuenta de Nómina
+5 lecciones
+Afore4 lecciones
+Afore
+4 lecciones
+PyMES7 lecciones
+PyMES
+7 lecciones
+Seguros5 lecciones
+Seguros
+Tarjeta de débito6 lecciones
+Tarjeta de débito
+Ir a todos los cursos
+Equilibra tu estilo de vida y tus finanzas con nuestros artículos06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver másVer todos los artículos
+Equilibra tu estilo de vida y tus finanzas con nuestros artículos
+06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver másVer todos los artículos
+06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver más
+06 - Noviembre - 2023Consejos para no gastar de más en el súperDescubre cómo gastar menos en el super. Ver más
+06 - Noviembre - 2023
+Consejos para no gastar de más en el súper
+Descubre cómo gastar menos en el super. Ver más
+Ver más
+18 - Octubre - 2023Desintoxica tus finanzas con el reto de cero gastoAhorrar no es tan difícil, aprende a usar este nuevo método. Ver más
+18 - Octubre - 2023
+Desintoxica tus finanzas con el reto de cero gasto
+Ahorrar no es tan difícil, aprende a usar este nuevo método. Ver más
+09 - Enero - 2023¿Qué es una inversión a la vista y para qué sirve?Descubre cómo y para qué sirven las inversiones a la vista Ver más
+09 - Enero - 2023
+¿Qué es una inversión a la vista y para qué sirve?
+Descubre cómo y para qué sirven las inversiones a la vista Ver más
+06 - Enero - 2023Guía de supervivencia para superar la cuesta de eneroTips para enfrentar la cuesta de enero Ver más
+06 - Enero - 2023
+Guía de supervivencia para superar la cuesta de enero
+Tips para enfrentar la cuesta de enero Ver más
+Ver todos los artículos
+Conoce más sobre tushábitos financierosTen el control de tu dineroTest de finanzas sanasDescubre cuál es tu situación financiera en menos de 5 minutos.Hacer test¿Cómo pagar tu tarjeta de crédito?Averigua cómo impactan tus pagos en el control de tu deuda.Calcular
+Conoce más sobre tushábitos financieros
+Ten el control de tu dineroTest de finanzas sanasDescubre cuál es tu situación financiera en menos de 5 minutos.Hacer test¿Cómo pagar tu tarjeta de crédito?Averigua cómo impactan tus pagos en el control de tu deuda.Calcular
+Ten el control de tu dinero
+Test de finanzas sanasDescubre cuál es tu situación financiera en menos de 5 minutos.Hacer test
+Test de finanzas sanas
+Descubre cuál es tu situación financiera en menos de 5 minutos.
+Hacer test
+¿Cómo pagar tu tarjeta de crédito?Averigua cómo impactan tus pagos en el control de tu deuda.Calcular
+¿Cómo pagar tu tarjeta de crédito?
+Averigua cómo impactan tus pagos en el control de tu deuda.
+Calcular
+El contenido de esta sección es de carácter informativo, con la intención de ofrecer recomendaciones sobre temas de finanzas personales y uso de productos y servicios bancarios para desarrollar hábitos financieros saludables de manera general, ninguna información debe tomarse como definitiva u oponerse a aquella brindada por esta u otra institución bancaria a sus clientes, ni genera ningún tipo de obligación por parte de Citibanamex-Educación Financiera ni al Banco Nacional de México, S.A., integrante del Grupo Financiero Banamex.
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Bolsa de Trabajo
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+    window.addEventListener('DOMContentLoaded', function () {})    F.getEntradasCursos();    F.getEntradasBlog();  
+_satellite["_runScript1"](function(event, target, Promise) {function inserAppMeasurement() {    return new Promise((resolve, reject) => {        let script = document.createElement('script');        script.type = 'text/javascript';        script.async = true;        script.onload = script.onreadystatechange = function() {            if (!script.readyState || /loaded|complete/.test(script.readyState)) {                script.onload = script.onreadystatechange = null; // Clean up                resolve(); // Resolve the promise when the script is loaded            }        };      script.src = '/recursos/js/mx_citi_s_code_v2.js';        script.onerror = function() {            reject(new Error('Failed to load Adobe Launch mx_csc_v2.js script'));        };        // Append the script to the head        document.head.appendChild(script);    });}// Usage exampleinserAppMeasurement()    .then(() => {          // This code will run after the Adobe Launch scripts are fully loaded and defined                  document.dispatchEvent(new CustomEvent("citi:s-var-loaded", {           cancelable: false,           bubbles: false,           }))                    console.log("AppMeasurement.js Loaded From Adobe Launch");    })    .catch((error) => {        console.error('Error:', error);    });});
+_satellite["_runScript2"](function(event, target, Promise) {/* Rule Id: 2067764*//*var nuevo = document.createElement('script');nuevo.setAttribute('type', 'text/javascript');nuevo.setAttribute('src', "//tags.bluekai.com/site/41856?ret=js&limit=1");document.getElementsByTagName('head')[0].appendChild(nuevo);var mboxjs = document.createElement('script');mboxjs.setAttribute('type', 'text/javascript');mboxjs.setAttribute('src', "/assets/js/mbox.js");document.getElementsByTagName('head')[0].appendChild(mboxjs);*/const wBtn = document.querySelectorAll('.hero-foto .dft-btn-1')[0];function watchBtn($el) {window.addEventListener('scroll', function(){const btnPos = $el.getBoundingClientRect();const submenu = document.querySelectorAll('.sectionM.menu-tarjetas')[0];if (btnPos.top < 0) {submenu.classList.add('onViewport');} else {      submenu.classList.remove('onViewport');}});}function insertMbox() {    return new Promise((resolve, reject) => {        let script = document.createElement('script');        script.type = 'text/javascript';        script.async = true;        script.onload = script.onreadystatechange = function() {            if (!script.readyState || /loaded|complete/.test(script.readyState)) {                script.onload = script.onreadystatechange = null; // Clean up                resolve(); // Resolve the promise when the script is loaded            }        };       if(location.hostname === "www.banamex.com"){        script.src = '//www.banamex.com/assets/js/mbox.js';       document.head.appendChild(script);       return;       }         else if(location.hostname === "portal.banamex.uat1.citibankonlineqa.com"|| location.hostname === "portal.banamex.com.mx"|| location.hostname === "www.mobileuat.banamex.com"|| location.hostname === "portaluat.banamex.com"|| location.hostname === "portal.banamex.sit1.nam.nsroot.net"|| location.hostname === "uat.bau.portalbanamex.citibankonlineqa.com"){        script.src = '//uat.bau.portalbanamex.citibankonlineqa.com/assets/js/mbox.js';       document.head.appendChild(script);        //alert("Uat Mbox Loaded");       return        }        script.onerror = function() {            reject(new Error('Failed to load Adobe Launch mbox.js script'));        };        // Append the script to the head        document.head.appendChild(script);    });}insertMbox()    .then(() => {        // This code will run after the Adobe Launch scripts are fully loaded and defined       console.log("mbox.js Loaded From Adobe Launch");    })    .catch((error) => {        console.error('Error:', error);    });});
+_satellite["_runScript3"](function(event, target, Promise) {/* Rule Id: 3788451 *//*var logo = document.querySelector('.citi-navbar-brand >li');if(!logo){ document.addEventListener("citi:initial-header-footer-loaded",function(){   logo = document.querySelector('.citi-navbar-brand >li');    logo.classList.add("cursor-default");   logo.classList.add("pointer-events-none"); console.log("HREF deleted");});}else{ logo.classList.add("cursor-default");   logo.classList.add("pointer-events-none");}*/var bancanet = document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]');if (!bancanet) {  document.addEventListener("citi:initial-header-footer-loaded", function() {    document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]').addEventListener('click', function() {      adobe.target.getOffer({        "mbox": "mbox-bn",        "params": {          "profile.user": "irbn"        },        "success": function(offer) {          adobe.target.applyOffer({            "mbox": "mbox-bn",            "offer": offer          });        },        "error": function(status, error) {          console.log('Error', status, error);        }      });    });  });} else {  document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet"]').addEventListener('click', function() {    adobe.target.getOffer({      "mbox": "mbox-bn",      "params": {        "profile.user": "irbn"      },      "success": function(offer) {        adobe.target.applyOffer({          "mbox": "mbox-bn",          "offer": offer        });      },      "error": function(status, error) {        console.log('Error', status, error);      }    });    console.log('mbox-bn');  });}// send mbox BancaNet Empresarialvar bancanetempresarial = document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]');if (!bancanetempresarial) {  document.addEventListener("citi:initial-header-footer-loaded", function() {    document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]').addEventListener('click', function() {      adobe.target.getOffer({        "mbox": "mbox-bne",        "params": {          "profile.user": "irbnempresarial"        },        "success": function(offer) {          adobe.target.applyOffer({            "mbox": "mbox-bne",            "offer": offer          });        },        "error": function(status, error) {          console.log('Error', status, error);        }      });    });  });} else {  document.querySelector('ul#menu-login-bancanet > li > a[aria-label="bancanet empresarial"]').addEventListener('click', function() {    adobe.target.getOffer({      "mbox": "mbox-bne",      "params": {        "profile.user": "irbnempresarial"      },      "success": function(offer) {        adobe.target.applyOffer({          "mbox": "mbox-bne",          "offer": offer        });      },      "error": function(status, error) {        console.log('Error', status, error);      }    });    console.log('mbox-bne');  });}});
+_satellite["_runScript4"](function(event, target, Promise) {/* Rule Id: 3844915 *///Global tagvar js_script = document.createElement('script');js_script.type = "text/javascript";js_script.src = "https://www.googletagmanager.com/gtag/js?id=AW-613242379";js_script.async = true;document.getElementsByTagName('head')[0].appendChild(js_script);window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-613242379');/*//Page viewgtag('event', 'conversion', {'send_to': 'AW-613242379/p2EGCIv0k9ACEIustaQC'});*/});

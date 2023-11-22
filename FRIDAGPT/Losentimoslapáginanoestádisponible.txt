@@ -1,0 +1,143 @@
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en LíneaLo sentimos, la página no está disponibleTe queremos ayudar con tu búsqueda.Consulta la lista de opciones que a continuación te presentamos:Productos más solicitados Créditos Personales Acceso a BancaNet Banca Patrimonial Pago de Impuestos y Tenencia Cuenta de Ahorro Perfiles Inversiones Perfilador Tarjetas de CréditoBúsquedas más frecuentes Tarjetas de Crédito Sucursales Citibanamex BancaNet Estado de Cuenta Electrónico Puntos Premia Tipo de Cambio del Dólar Bolsa de Trabajo Afore BanamexTe recomendamos Seguros Cuentas Mapa del Sitio Créditos Hipotecarios Productos para PyMes Promociones Banamex Citibanamex Móvil BancaNet EmpresarialEl Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Lo sentimos, la página no está disponiblevar gomez = {  gs: new Date().getTime(),  acctId: 'FD40FC',  pgId: '',  grpId: '' };!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"5G3ZS-8L7PG-U23WM-5CA4K-LQ3YP",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eaauq6fbkeyaajqacqbqaaifrfombvmv-f-2f8918131-clienttons-s.akamaihd.net",i={"ak.v":20,"ak.cp":"540505","ak.ai":parseInt("351538",10),"ak.ol":"0","ak.cr":100,"ak.ipv":6,"ak.proto":"","ak.rid":"9bc0eb","ak.r":32536,"ak.a2":e,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"2001:4878:a151:3000::","ak.cport":64767,"ak.gh":"184.50.232.22","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"fast","ak.t":"1556141461"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+Lo sentimos, la página no está disponible
+var gomez = {  gs: new Date().getTime(),  acctId: 'FD40FC',  pgId: '',  grpId: '' };
+!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,o,r,O=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);O.src="javascript:void(0)",O.title="",O.role="presentation",(O.frameElement||O).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(O,r);try{o=O.contentWindow.document}catch(_){i=document.domain,O.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=O.contentWindow.document}o.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"5G3ZS-8L7PG-U23WM-5CA4K-LQ3YP",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eaauq6fbkeyaajqacqbqaaifrfombvmv-f-2f8918131-clienttons-s.akamaihd.net",i={"ak.v":20,"ak.cp":"540505","ak.ai":parseInt("351538",10),"ak.ol":"0","ak.cr":100,"ak.ipv":6,"ak.proto":"","ak.rid":"9bc0eb","ak.r":32536,"ak.a2":e,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"2001:4878:a151:3000::","ak.cport":64767,"ak.gh":"184.50.232.22","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"fast","ak.t":"1556141461"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de PrivacidadPersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+Continuar
+
+En este sitio utilizamos cookies para mostrar a los usuarios publicidad relacionada con sus preferencias. Si continúa navegando, entendemos que otorga aceptación plena y sin reservas de todas y cada una de las disposiciones respecto a los “Medios automáticos para recabar datos personales” descritos en nuestro Aviso de Privacidad
+Aviso de Privacidad
+PersonasPYMESEmpresas y GobiernoPromocionesHazte ClienteBanca en Línea
+PersonasPYMESEmpresas y GobiernoPromocionesHazte Cliente
+®
+Personas
+Inicio Personas
+Sin anualidad
+Beneficios en puntos
+Beneficios en viajes
+Descubre la tarjeta que más te conviene
+Contratar en línea
+Promociones
+PYMES
+Inicio PYMES
+Empresas y Gobierno
+Inicio Empresas y Gobierno
+PromocionesHazte Cliente
+Hazte Cliente
+Banca en Línea
+Ingresa a tu Banca
+Abrir mi cuenta
+La quiero
+Lo sentimos, la página no está disponibleTe queremos ayudar con tu búsqueda.Consulta la lista de opciones que a continuación te presentamos:Productos más solicitados Créditos Personales Acceso a BancaNet Banca Patrimonial Pago de Impuestos y Tenencia Cuenta de Ahorro Perfiles Inversiones Perfilador Tarjetas de CréditoBúsquedas más frecuentes Tarjetas de Crédito Sucursales Citibanamex BancaNet Estado de Cuenta Electrónico Puntos Premia Tipo de Cambio del Dólar Bolsa de Trabajo Afore BanamexTe recomendamos Seguros Cuentas Mapa del Sitio Créditos Hipotecarios Productos para PyMes Promociones Banamex Citibanamex Móvil BancaNet Empresarial
+Te queremos ayudar con tu búsqueda.
+Consulta la lista de opciones que a continuación te presentamos:
+Productos más solicitados Créditos Personales Acceso a BancaNet Banca Patrimonial Pago de Impuestos y Tenencia Cuenta de Ahorro Perfiles Inversiones Perfilador Tarjetas de CréditoBúsquedas más frecuentes Tarjetas de Crédito Sucursales Citibanamex BancaNet Estado de Cuenta Electrónico Puntos Premia Tipo de Cambio del Dólar Bolsa de Trabajo Afore BanamexTe recomendamos Seguros Cuentas Mapa del Sitio Créditos Hipotecarios Productos para PyMes Promociones Banamex Citibanamex Móvil BancaNet Empresarial
+Productos más solicitados Créditos Personales Acceso a BancaNet Banca Patrimonial Pago de Impuestos y Tenencia Cuenta de Ahorro Perfiles Inversiones Perfilador Tarjetas de Crédito
+Productos más solicitados
+ Créditos Personales Acceso a BancaNet Banca Patrimonial Pago de Impuestos y Tenencia Cuenta de Ahorro Perfiles Inversiones Perfilador Tarjetas de Crédito
+ Créditos Personales
+Créditos Personales
+ Acceso a BancaNet
+Acceso a BancaNet
+ Banca Patrimonial
+Banca Patrimonial
+ Pago de Impuestos y Tenencia
+Pago de Impuestos y Tenencia
+ Cuenta de Ahorro Perfiles
+Cuenta de Ahorro Perfiles
+ Inversiones
+Inversiones
+ Perfilador Tarjetas de Crédito
+Perfilador Tarjetas de Crédito
+Búsquedas más frecuentes Tarjetas de Crédito Sucursales Citibanamex BancaNet Estado de Cuenta Electrónico Puntos Premia Tipo de Cambio del Dólar Bolsa de Trabajo Afore Banamex
+Búsquedas más frecuentes
+ Tarjetas de Crédito Sucursales Citibanamex BancaNet Estado de Cuenta Electrónico Puntos Premia Tipo de Cambio del Dólar Bolsa de Trabajo Afore Banamex
+ Tarjetas de Crédito
+Tarjetas de Crédito
+ Sucursales Citibanamex
+Sucursales Citibanamex
+ BancaNet
+BancaNet
+ Estado de Cuenta Electrónico
+Estado de Cuenta Electrónico
+ Puntos Premia
+Puntos Premia
+ Tipo de Cambio del Dólar
+Tipo de Cambio del Dólar
+ Bolsa de Trabajo
+Bolsa de Trabajo
+ Afore Banamex
+Afore Banamex
+Te recomendamos Seguros Cuentas Mapa del Sitio Créditos Hipotecarios Productos para PyMes Promociones Banamex Citibanamex Móvil BancaNet Empresarial
+Te recomendamos
+ Seguros Cuentas Mapa del Sitio Créditos Hipotecarios Productos para PyMes Promociones Banamex Citibanamex Móvil BancaNet Empresarial
+ Seguros
+Seguros
+ Cuentas
+Cuentas
+ Mapa del Sitio
+Mapa del Sitio
+ Créditos Hipotecarios
+Créditos Hipotecarios
+ Productos para PyMes
+Productos para PyMes
+ Promociones Banamex
+Promociones Banamex
+ Citibanamex Móvil
+Citibanamex Móvil
+ BancaNet Empresarial
+BancaNet Empresarial
+El Banco Nacional de México ®Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonosMapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICOCopyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+El Banco Nacional de México ®
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y GobiernoEconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM BancoNosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIsAyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Clientes CitibanamexPersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+Clientes Citibanamex
+PersonasPriorityJóvenesPatrimonialPyMESEmpresas y Gobierno
+PersonasPriorityJóvenesPatrimonial
+PriorityJóvenesPatrimonial
+Priority
+Jóvenes
+Patrimonial
+PyMES
+EconomíaTipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Economía
+Tipo de cambioAnálisis financieroInformación FinancieraFondos de inversiónCorresponsalesEducación FinancieraCBM Banco
+Tipo de cambio
+Análisis financiero
+Información Financiera
+Fondos de inversión
+Corresponsales
+Educación Financiera
+CBM Banco
+NosotrosBolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Nosotros
+Bolsa de TrabajoComunicación externaPremiosQuiénes somosCompromiso SocialNuestras APIs
+Comunicación externa
+Premios
+Quiénes somos
+Compromiso Social
+Nuestras APIs
+AyudaAyuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda
+Ayuda urgenteCentro de ayudaTips de seguridadLocalizadorTeléfonos
+Ayuda urgente
+Centro de ayuda
+Tips de seguridad
+Localizador
+Teléfonos
+Mapa de sitioAviso LegalLey de TransparenciaIPABProgramas de ApoyoConstancias FiscalesUnidad Especializada Banamex/CONDUSEFBANXICO
+Mapa de sitio
+Aviso Legal
+Ley de Transparencia
+IPAB
+Programas de Apoyo
+Constancias Fiscales
+Unidad Especializada Banamex/CONDUSEF
+BANXICO
+Copyright 2023 ©Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de MéxicoConsulta los costos y comisiones de nuestros productos.
+Copyright 2023 ©
+Los productos y ofertas de Citibanamex están dirigidos sólo a residentes de México
+Consulta los costos y comisiones de nuestros productos.
+/* Copyright 1997-2010 Omniture, Inc. */ s.pageName = "";s.prop10 = "ES";s.pageType = "errorPage";/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/var s_code = s.t();if (s_code) document.write(s_code)     
