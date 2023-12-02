@@ -2,27 +2,24 @@ import logging
 import json
 from playwright.sync_api import sync_playwright
 import azure.functions as func
-import re
-from azure.storage.blob import BlobClient
-from azure.storage.fileshare import ShareFileClient
+import re 
 import os
 import subprocess
-
+from firebase_admin import credentials, initialize_app, storage
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info("Python HTTP trigger function processed a request.")
     x = json.loads(req.get_body())
-
-    root_dir = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(root_dir)
-
-    # Run the commands after your code
-    ##subprocess.run(["pip", "install", "playwright"])
-    subprocess.run(["playwright", "install", "chromium"])
-
     url_p = x["url"]
     epochs = x["levels"]
-    share = x["share"]
+    share = x["document_id"]
+    sess_id = x["session_id"]
+    doc_name = x["document_name"]
+
+    route = "{}/Scrapes/{}".format(sess_id,doc_name)
+    cred = credentials.Certificate("fridagpt-bb68d-firebase-adminsdk-76f8x-dedd049a45.json")
+    initialize_app(cred, {'storageBucket' : 'fridagpt-bb68d.appspot.com'})
+
     list_of_chars = [
         ">",
         "<",
@@ -44,10 +41,8 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     ]
     files = []
     pattern = "[" + "".join(list_of_chars) + "]"
-    if epochs > 3:
-        epochs = 3
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=50)
+        browser = p.firefox.launch(headless=True, slow_mo=50)
         page = browser.new_page()
         url = url_p
         page.goto(url)
@@ -56,69 +51,51 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
             "var links = [];const refs = document.getElementsByTagName('a');const regex = new RegExp('^(http|https):\/\/.+');for (const c of refs) {if(regex.test(c.href)){links.push(c.href);}} uniq = [...new Set(links)]; uniq.shift(); uniq;"
         )
         content = page.evaluate(
-            "const tags = document.getElementsByTagName('*');const text = [];for (const c of tags) {if(c.innerText){text.push(c.innerText.replace(/(\\r\\n|\\n|\\r|\\t)/gm, ''));}}uniq = [...new Set(text)];uniq;"
+            "var el = document.body; var text = el.innerText || el.textContent; var tt = text; tt;"
         )
-        file_title = re.sub(pattern, "", title)
-
-        with open("{}.txt".format(file_title), "w", encoding="utf-8") as f:
-            f.writelines(content)
-        files.append("{}.txt".format(file_title))
+        title_encoded = str(title.encode('utf-8', 'strict'), encoding='utf-8')
+        file_title = re.sub(pattern, "", title_encoded)
+        firebase(str(content),"{}.txt".format(file_title),route)
         levels = []
-
-        for link in links:
-            page.goto(link)
-            title_level = page.evaluate("() => document.title")
-            content = page.evaluate(
-                "const tags = document.getElementsByTagName('*');const text = [];for (const c of tags) {if(c.innerText){text.push(c.innerText.replace(/(\\r\\n|\\n|\\r|\\t)/gm, ''));}}uniq = [...new Set(text)];uniq;"
-            )
-            file_title_level = re.sub(pattern, "", title_level)
-            dict = {
-                "title": title_level,
-                "content": "{}.txt".format(file_title_level),
-                "url": link,
-            }
-            files.append("{}.txt".format(file_title_level))
-            levels.append(dict)
-            with open("{}.txt".format(file_title_level), "w", encoding="utf-8") as f:
-                f.writelines(line + "\n" for line in content)
+        if epochs > 1:
+            for link in links:
+                try: 
+                    page.goto(link)
+                    title_level = page.evaluate("() => document.title")
+                    content = page.evaluate(
+                        "var el = document.body; var text = el.innerText || el.textContent; var tt = text; tt;"
+                    )
+                    title_encoded = title_level.encode('utf-8', 'strict')
+                    file_title_level = re.sub(pattern, "", str(title_encoded, encoding='utf-8'))
+                    dict = {
+                        "title": title_level,
+                        "content": "{}/{}.txt".format(route, file_title_level),
+                        "url": link,
+                    }
+                    levels.append(dict)
+                    firebase(str(content),"{}.txt".format(file_title_level),route)
+                except:
+                    continue
         browser.close()
 
         obj = {
-            "title_main_page": title,
-            "links": links,
-            "content": "{}.txt".format(file_title),
-            "levels": levels,
+            "webpage" : {
+                "title_main_page": title,
+                "levels": levels,
+                "content": "{}/{}.txt".format(route, file_title),
+            },
+            "session_id" : sess_id,
+            "document_id" : share,
+            "document_name" : doc_name
         }
-        json_output = json.dumps(obj)
-
-        with open(
-            "output{}.json".format(file_title), "w", encoding="utf-8"
-        ) as json_file:
-            json_file.write(json_output)
-
-        upload_blob("output{}.json".format(file_title))
-
-        for file in files:
-            upload_file_share(file, "scrape-kb-file-share-001/{}".format(share))
-
-        return func.HttpResponse(json_output, mimetype="application/json")
+    
+        return func.HttpResponse(json.dumps(obj), mimetype="application/json")
 
 
-def upload_blob(file):
-    blob_client = BlobClient.from_connection_string(
-        conn_str="DefaultEndpointsProtocol=https;AccountName=knowledgebasestksa;AccountKey=PncqrZlOUg+1ciAzWat8V4MzPUbIzi12jnEgiMdhs9QLananjm5AVaFQxYKFRpydjyBkNXLLU4yC+ASteDl8Mw==;EndpointSuffix=core.windows.net",
-        container_name="scraping-kb",
-        blob_name=file,
-    )
-    with open(file, "rb") as data:
-        blob_client.upload_blob(data, overwrite=True)
+def firebase(data,file,dir): 
+    fileName = file
+    bucket = storage.bucket()
+    blob = bucket.blob("{}/{}".format(dir,fileName))
+    blob.upload_from_string(data)
+    blob.make_public()
 
-
-def upload_file_share(file, share):
-    file_client = ShareFileClient.from_connection_string(
-        conn_str="DefaultEndpointsProtocol=https;AccountName=knowledgebasestksa;AccountKey=PncqrZlOUg+1ciAzWat8V4MzPUbIzi12jnEgiMdhs9QLananjm5AVaFQxYKFRpydjyBkNXLLU4yC+ASteDl8Mw==;EndpointSuffix=core.windows.net",
-        share_name=share,
-        file_path=file,
-    )
-    with open(file, "rb") as source_file:
-        file_client.upload_file(source_file)

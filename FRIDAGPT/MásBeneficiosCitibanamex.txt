@@ -1,3 +1,0 @@
-Más Beneficios | Citibanamex  s.pageName = "";s.prop11 = "redirect";/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/ var s_code = s.t(); if(s_code)document.write(s_code) window.onload = function() {var params = window.location.search;setTimeout(function() { window.location.href = '/seguros/seguro-de-ahorro.html'+params;}, 500);};
-Más Beneficios | Citibanamex 
- s.pageName = "";s.prop11 = "redirect";/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/ var s_code = s.t(); if(s_code)document.write(s_code) window.onload = function() {var params = window.location.search;setTimeout(function() { window.location.href = '/seguros/seguro-de-ahorro.html'+params;}, 500);};

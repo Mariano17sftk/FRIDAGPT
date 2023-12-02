@@ -1,3 +1,0 @@
-Tarjetas de crédito Citibanamex | Citibanamex.com s.pageName="";s.prop11="redirect";/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/ var s_code=s.t();if(s_code)document.write(s_code) //-->window.onload=function(){setTimeout(function(){run()},700);};function run(){window.location.href = '/landings/tarjetas-de-credito/index.html';}
-Tarjetas de crédito Citibanamex | Citibanamex.com
- s.pageName="";s.prop11="redirect";/************* DO NOT ALTER ANYTHING BELOW THIS LINE! **************/ var s_code=s.t();if(s_code)document.write(s_code) //-->window.onload=function(){setTimeout(function(){run()},700);};function run(){window.location.href = '/landings/tarjetas-de-credito/index.html';}
