@@ -21,7 +21,7 @@ project.lock.json
 .secrets
 appsettings.json
 local.settings.json
-
+fridagpt-bb68d-firebase-adminsdk-76f8x-dedd049a45.json
 node_modules
 dist
 
